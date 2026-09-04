@@ -8,6 +8,10 @@ on:
     paths:
       - 'update_news.py'
 
+concurrency:
+  group: news-update
+  cancel-in-progress: true
+
 permissions:
   contents: write
 
@@ -35,5 +39,6 @@ jobs:
             echo "No changes in news feed."
           else
             git commit -m "Auto update news feed: $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
-            git push
+            git pull --rebase origin main
+            git push origin main
           fi
