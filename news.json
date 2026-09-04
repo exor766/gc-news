@@ -1,0 +1,90 @@
+{
+  "updated_at": "2026.09.04 10:36:20 UTC",
+  "count": 12,
+  "events": [
+    {
+      "timestamp": 1788157740,
+      "time_utc": "2026.08.31 06:29",
+      "currency": "EUR",
+      "impact": "Medium",
+      "title": "German Prelim CPI m/m"
+    },
+    {
+      "timestamp": 1788253200,
+      "time_utc": "2026.09.01 09:00",
+      "currency": "EUR",
+      "impact": "Medium",
+      "title": "Core CPI Flash Estimate y/y"
+    },
+    {
+      "timestamp": 1788253200,
+      "time_utc": "2026.09.01 09:00",
+      "currency": "EUR",
+      "impact": "Medium",
+      "title": "CPI Flash Estimate y/y"
+    },
+    {
+      "timestamp": 1788271200,
+      "time_utc": "2026.09.01 14:00",
+      "currency": "USD",
+      "impact": "High",
+      "title": "ISM Manufacturing PMI"
+    },
+    {
+      "timestamp": 1788271200,
+      "time_utc": "2026.09.01 14:00",
+      "currency": "USD",
+      "impact": "Medium",
+      "title": "ISM Manufacturing Prices"
+    },
+    {
+      "timestamp": 1788271200,
+      "time_utc": "2026.09.01 14:00",
+      "currency": "USD",
+      "impact": "Medium",
+      "title": "JOLTS Job Openings"
+    },
+    {
+      "timestamp": 1788351300,
+      "time_utc": "2026.09.02 12:15",
+      "currency": "USD",
+      "impact": "Medium",
+      "title": "ADP Non-Farm Employment Change"
+    },
+    {
+      "timestamp": 1788438600,
+      "time_utc": "2026.09.03 12:30",
+      "currency": "USD",
+      "impact": "Medium",
+      "title": "Unemployment Claims"
+    },
+    {
+      "timestamp": 1788444000,
+      "time_utc": "2026.09.03 14:00",
+      "currency": "USD",
+      "impact": "Medium",
+      "title": "ISM Services PMI"
+    },
+    {
+      "timestamp": 1788525000,
+      "time_utc": "2026.09.04 12:30",
+      "currency": "USD",
+      "impact": "High",
+      "title": "Average Hourly Earnings m/m"
+    },
+    {
+      "timestamp": 1788525000,
+      "time_utc": "2026.09.04 12:30",
+      "currency": "USD",
+      "impact": "High",
+      "title": "Non-Farm Employment Change"
+    },
+    {
+      "timestamp": 1788525000,
+      "time_utc": "2026.09.04 12:30",
+      "currency": "USD",
+      "impact": "High",
+      "title": "Unemployment Rate"
+    }
+  ]
+}
