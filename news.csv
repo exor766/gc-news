@@ -1,13 +1,14 @@
 # timestamp;time_utc;currency;impact;title
-1788157740;2026.08.31 06:29;EUR;Medium;German Prelim CPI m/m
-1788253200;2026.09.01 09:00;EUR;Medium;Core CPI Flash Estimate y/y
-1788253200;2026.09.01 09:00;EUR;Medium;CPI Flash Estimate y/y
-1788271200;2026.09.01 14:00;USD;High;ISM Manufacturing PMI
-1788271200;2026.09.01 14:00;USD;Medium;ISM Manufacturing Prices
-1788271200;2026.09.01 14:00;USD;Medium;JOLTS Job Openings
-1788351300;2026.09.02 12:15;USD;Medium;ADP Non-Farm Employment Change
-1788438600;2026.09.03 12:30;USD;Medium;Unemployment Claims
-1788444000;2026.09.03 14:00;USD;Medium;ISM Services PMI
-1788525000;2026.09.04 12:30;USD;High;Average Hourly Earnings m/m
-1788525000;2026.09.04 12:30;USD;High;Non-Farm Employment Change
-1788525000;2026.09.04 12:30;USD;High;Unemployment Rate
+1789042500;2026.09.10 12:15;EUR;High;Main Refinancing Rate
+1789042500;2026.09.10 12:15;EUR;High;Monetary Policy Statement
+1789043400;2026.09.10 12:30;USD;High;Core PPI m/m
+1789043400;2026.09.10 12:30;USD;High;PPI m/m
+1789043400;2026.09.10 12:30;USD;Medium;Unemployment Claims
+1789044300;2026.09.10 12:45;EUR;High;ECB Press Conference
+1789129800;2026.09.11 12:30;USD;High;Core CPI m/m
+1789129800;2026.09.11 12:30;USD;High;Core CPI y/y
+1789129800;2026.09.11 12:30;USD;High;CPI m/m
+1789129800;2026.09.11 12:30;USD;High;CPI y/y
+1789135200;2026.09.11 14:00;USD;Medium;Prelim UoM Consumer Sentiment
+1789135200;2026.09.11 14:00;USD;Medium;Prelim UoM Inflation Expectations
+1789198200;2026.09.12 07:30;EUR;Medium;ECB President Lagarde Speaks

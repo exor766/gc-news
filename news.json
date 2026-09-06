@@ -1,90 +1,97 @@
 {
-  "updated_at": "2026.09.06 03:03:32 UTC",
-  "count": 12,
+  "updated_at": "2026.09.06 08:02:20 UTC",
+  "count": 13,
   "events": [
     {
-      "timestamp": 1788157740,
-      "time_utc": "2026.08.31 06:29",
+      "timestamp": 1789042500,
+      "time_utc": "2026.09.10 12:15",
       "currency": "EUR",
-      "impact": "Medium",
-      "title": "German Prelim CPI m/m"
+      "impact": "High",
+      "title": "Main Refinancing Rate"
     },
     {
-      "timestamp": 1788253200,
-      "time_utc": "2026.09.01 09:00",
+      "timestamp": 1789042500,
+      "time_utc": "2026.09.10 12:15",
       "currency": "EUR",
-      "impact": "Medium",
-      "title": "Core CPI Flash Estimate y/y"
+      "impact": "High",
+      "title": "Monetary Policy Statement"
     },
     {
-      "timestamp": 1788253200,
-      "time_utc": "2026.09.01 09:00",
-      "currency": "EUR",
-      "impact": "Medium",
-      "title": "CPI Flash Estimate y/y"
-    },
-    {
-      "timestamp": 1788271200,
-      "time_utc": "2026.09.01 14:00",
+      "timestamp": 1789043400,
+      "time_utc": "2026.09.10 12:30",
       "currency": "USD",
       "impact": "High",
-      "title": "ISM Manufacturing PMI"
+      "title": "Core PPI m/m"
     },
     {
-      "timestamp": 1788271200,
-      "time_utc": "2026.09.01 14:00",
+      "timestamp": 1789043400,
+      "time_utc": "2026.09.10 12:30",
       "currency": "USD",
-      "impact": "Medium",
-      "title": "ISM Manufacturing Prices"
+      "impact": "High",
+      "title": "PPI m/m"
     },
     {
-      "timestamp": 1788271200,
-      "time_utc": "2026.09.01 14:00",
-      "currency": "USD",
-      "impact": "Medium",
-      "title": "JOLTS Job Openings"
-    },
-    {
-      "timestamp": 1788351300,
-      "time_utc": "2026.09.02 12:15",
-      "currency": "USD",
-      "impact": "Medium",
-      "title": "ADP Non-Farm Employment Change"
-    },
-    {
-      "timestamp": 1788438600,
-      "time_utc": "2026.09.03 12:30",
+      "timestamp": 1789043400,
+      "time_utc": "2026.09.10 12:30",
       "currency": "USD",
       "impact": "Medium",
       "title": "Unemployment Claims"
     },
     {
-      "timestamp": 1788444000,
-      "time_utc": "2026.09.03 14:00",
+      "timestamp": 1789044300,
+      "time_utc": "2026.09.10 12:45",
+      "currency": "EUR",
+      "impact": "High",
+      "title": "ECB Press Conference"
+    },
+    {
+      "timestamp": 1789129800,
+      "time_utc": "2026.09.11 12:30",
+      "currency": "USD",
+      "impact": "High",
+      "title": "Core CPI m/m"
+    },
+    {
+      "timestamp": 1789129800,
+      "time_utc": "2026.09.11 12:30",
+      "currency": "USD",
+      "impact": "High",
+      "title": "Core CPI y/y"
+    },
+    {
+      "timestamp": 1789129800,
+      "time_utc": "2026.09.11 12:30",
+      "currency": "USD",
+      "impact": "High",
+      "title": "CPI m/m"
+    },
+    {
+      "timestamp": 1789129800,
+      "time_utc": "2026.09.11 12:30",
+      "currency": "USD",
+      "impact": "High",
+      "title": "CPI y/y"
+    },
+    {
+      "timestamp": 1789135200,
+      "time_utc": "2026.09.11 14:00",
       "currency": "USD",
       "impact": "Medium",
-      "title": "ISM Services PMI"
+      "title": "Prelim UoM Consumer Sentiment"
     },
     {
-      "timestamp": 1788525000,
-      "time_utc": "2026.09.04 12:30",
+      "timestamp": 1789135200,
+      "time_utc": "2026.09.11 14:00",
       "currency": "USD",
-      "impact": "High",
-      "title": "Average Hourly Earnings m/m"
+      "impact": "Medium",
+      "title": "Prelim UoM Inflation Expectations"
     },
     {
-      "timestamp": 1788525000,
-      "time_utc": "2026.09.04 12:30",
-      "currency": "USD",
-      "impact": "High",
-      "title": "Non-Farm Employment Change"
-    },
-    {
-      "timestamp": 1788525000,
-      "time_utc": "2026.09.04 12:30",
-      "currency": "USD",
-      "impact": "High",
-      "title": "Unemployment Rate"
+      "timestamp": 1789198200,
+      "time_utc": "2026.09.12 07:30",
+      "currency": "EUR",
+      "impact": "Medium",
+      "title": "ECB President Lagarde Speaks"
     }
   ]
 }

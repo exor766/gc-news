@@ -5,8 +5,8 @@
 
 - **JSON Feed:** `https://raw.githubusercontent.com/exor766/gc-news/main/news.json`
 - **CSV Feed (Рекомендуется для MT4):** `https://raw.githubusercontent.com/exor766/gc-news/main/news.csv`
-- **Последнее обновление:** `2026.09.06 03:03:32 UTC`
-- **Активных событий в базе:** `12`
+- **Последнее обновление:** `2026.09.06 08:02:20 UTC`
+- **Активных событий в базе:** `13`
 
 ---
 
@@ -26,15 +26,16 @@
 
 | Время (UTC) | Валюта | Важность | Событие |
 |---|---|---|---|
-| `2026.08.31 06:29` | **EUR** | 🟠 Medium | German Prelim CPI m/m |
-| `2026.09.01 09:00` | **EUR** | 🟠 Medium | Core CPI Flash Estimate y/y |
-| `2026.09.01 09:00` | **EUR** | 🟠 Medium | CPI Flash Estimate y/y |
-| `2026.09.01 14:00` | **USD** | 🔴 High | ISM Manufacturing PMI |
-| `2026.09.01 14:00` | **USD** | 🟠 Medium | ISM Manufacturing Prices |
-| `2026.09.01 14:00` | **USD** | 🟠 Medium | JOLTS Job Openings |
-| `2026.09.02 12:15` | **USD** | 🟠 Medium | ADP Non-Farm Employment Change |
-| `2026.09.03 12:30` | **USD** | 🟠 Medium | Unemployment Claims |
-| `2026.09.03 14:00` | **USD** | 🟠 Medium | ISM Services PMI |
-| `2026.09.04 12:30` | **USD** | 🔴 High | Average Hourly Earnings m/m |
-| `2026.09.04 12:30` | **USD** | 🔴 High | Non-Farm Employment Change |
-| `2026.09.04 12:30` | **USD** | 🔴 High | Unemployment Rate |
+| `2026.09.10 12:15` | **EUR** | 🔴 High | Main Refinancing Rate |
+| `2026.09.10 12:15` | **EUR** | 🔴 High | Monetary Policy Statement |
+| `2026.09.10 12:30` | **USD** | 🔴 High | Core PPI m/m |
+| `2026.09.10 12:30` | **USD** | 🔴 High | PPI m/m |
+| `2026.09.10 12:30` | **USD** | 🟠 Medium | Unemployment Claims |
+| `2026.09.10 12:45` | **EUR** | 🔴 High | ECB Press Conference |
+| `2026.09.11 12:30` | **USD** | 🔴 High | Core CPI m/m |
+| `2026.09.11 12:30` | **USD** | 🔴 High | Core CPI y/y |
+| `2026.09.11 12:30` | **USD** | 🔴 High | CPI m/m |
+| `2026.09.11 12:30` | **USD** | 🔴 High | CPI y/y |
+| `2026.09.11 14:00` | **USD** | 🟠 Medium | Prelim UoM Consumer Sentiment |
+| `2026.09.11 14:00` | **USD** | 🟠 Medium | Prelim UoM Inflation Expectations |
+| `2026.09.12 07:30` | **EUR** | 🟠 Medium | ECB President Lagarde Speaks |
