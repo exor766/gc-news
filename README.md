@@ -5,8 +5,8 @@
 
 - **JSON Feed:** `https://raw.githubusercontent.com/exor766/gc-news/main/news.json`
 - **CSV Feed (Рекомендуется для MT4):** `https://raw.githubusercontent.com/exor766/gc-news/main/news.csv`
-- **Последнее обновление:** `2026.09.07 00:41:34 UTC`
-- **Активных событий в базе:** `13`
+- **Последнее обновление:** `2026.09.07 05:41:47 UTC`
+- **Активных событий в базе:** `15`
 
 ---
 
@@ -26,6 +26,7 @@
 
 | Время (UTC) | Валюта | Важность | Событие |
 |---|---|---|---|
+| `2026.09.09 17:00` | **EUR** | 🟠 Medium | ECB President Lagarde Speaks |
 | `2026.09.10 12:15` | **EUR** | 🔴 High | Main Refinancing Rate |
 | `2026.09.10 12:15` | **EUR** | 🔴 High | Monetary Policy Statement |
 | `2026.09.10 12:30` | **USD** | 🔴 High | Core PPI m/m |
@@ -36,6 +37,7 @@
 | `2026.09.11 12:30` | **USD** | 🔴 High | Core CPI y/y |
 | `2026.09.11 12:30` | **USD** | 🔴 High | CPI m/m |
 | `2026.09.11 12:30` | **USD** | 🔴 High | CPI y/y |
+| `2026.09.11 14:00` | **EUR** | 🟠 Medium | ECB President Lagarde Speaks |
 | `2026.09.11 14:00` | **USD** | 🟠 Medium | Prelim UoM Consumer Sentiment |
 | `2026.09.11 14:00` | **USD** | 🟠 Medium | Prelim UoM Inflation Expectations |
 | `2026.09.12 07:30` | **EUR** | 🟠 Medium | ECB President Lagarde Speaks |

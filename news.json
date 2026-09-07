@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026.09.07 00:41:34 UTC",
-  "count": 13,
+  "updated_at": "2026.09.07 05:41:47 UTC",
+  "count": 15,
   "events": [
+    {
+      "timestamp": 1788973200,
+      "time_utc": "2026.09.09 17:00",
+      "currency": "EUR",
+      "impact": "Medium",
+      "title": "ECB President Lagarde Speaks"
+    },
     {
       "timestamp": 1789042500,
       "time_utc": "2026.09.10 12:15",
@@ -71,6 +78,13 @@
       "currency": "USD",
       "impact": "High",
       "title": "CPI y/y"
+    },
+    {
+      "timestamp": 1789135200,
+      "time_utc": "2026.09.11 14:00",
+      "currency": "EUR",
+      "impact": "Medium",
+      "title": "ECB President Lagarde Speaks"
     },
     {
       "timestamp": 1789135200,
