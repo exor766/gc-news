@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026.09.08 06:16:02 UTC",
-  "count": 15,
+  "updated_at": "2026.09.08 11:34:26 UTC",
+  "count": 14,
   "events": [
-    {
-      "timestamp": 1788973200,
-      "time_utc": "2026.09.09 17:00",
-      "currency": "EUR",
-      "impact": "Medium",
-      "title": "ECB President Lagarde Speaks"
-    },
     {
       "timestamp": 1789042500,
       "time_utc": "2026.09.10 12:15",
