@@ -1,111 +1,62 @@
 {
-  "updated_at": "2026.09.13 00:37:27 UTC",
-  "count": 15,
+  "updated_at": "2026.09.13 05:40:35 UTC",
+  "count": 8,
   "events": [
     {
-      "timestamp": 1789002900,
-      "time_utc": "2026.09.10 01:15",
+      "timestamp": 1789561800,
+      "time_utc": "2026.09.16 12:30",
       "currency": "USD",
       "impact": "Medium",
-      "title": "President Trump Speaks"
+      "title": "Core Retail Sales m/m"
     },
     {
-      "timestamp": 1789042500,
-      "time_utc": "2026.09.10 12:15",
-      "currency": "EUR",
-      "impact": "High",
-      "title": "Main Refinancing Rate"
+      "timestamp": 1789561800,
+      "time_utc": "2026.09.16 12:30",
+      "currency": "USD",
+      "impact": "Medium",
+      "title": "Retail Sales m/m"
     },
     {
-      "timestamp": 1789042500,
-      "time_utc": "2026.09.10 12:15",
-      "currency": "EUR",
-      "impact": "High",
-      "title": "Monetary Policy Statement"
-    },
-    {
-      "timestamp": 1789043400,
-      "time_utc": "2026.09.10 12:30",
+      "timestamp": 1789581600,
+      "time_utc": "2026.09.16 18:00",
       "currency": "USD",
       "impact": "High",
-      "title": "Core PPI m/m"
+      "title": "Federal Funds Rate"
     },
     {
-      "timestamp": 1789043400,
-      "time_utc": "2026.09.10 12:30",
+      "timestamp": 1789581600,
+      "time_utc": "2026.09.16 18:00",
       "currency": "USD",
       "impact": "High",
-      "title": "PPI m/m"
+      "title": "FOMC Economic Projections"
     },
     {
-      "timestamp": 1789043400,
-      "time_utc": "2026.09.10 12:30",
+      "timestamp": 1789581600,
+      "time_utc": "2026.09.16 18:00",
+      "currency": "USD",
+      "impact": "High",
+      "title": "FOMC Statement"
+    },
+    {
+      "timestamp": 1789583400,
+      "time_utc": "2026.09.16 18:30",
+      "currency": "USD",
+      "impact": "High",
+      "title": "FOMC Press Conference"
+    },
+    {
+      "timestamp": 1789648200,
+      "time_utc": "2026.09.17 12:30",
+      "currency": "USD",
+      "impact": "Medium",
+      "title": "Philly Fed Manufacturing Index"
+    },
+    {
+      "timestamp": 1789648200,
+      "time_utc": "2026.09.17 12:30",
       "currency": "USD",
       "impact": "Medium",
       "title": "Unemployment Claims"
-    },
-    {
-      "timestamp": 1789044300,
-      "time_utc": "2026.09.10 12:45",
-      "currency": "EUR",
-      "impact": "High",
-      "title": "ECB Press Conference"
-    },
-    {
-      "timestamp": 1789129800,
-      "time_utc": "2026.09.11 12:30",
-      "currency": "USD",
-      "impact": "High",
-      "title": "Core CPI m/m"
-    },
-    {
-      "timestamp": 1789129800,
-      "time_utc": "2026.09.11 12:30",
-      "currency": "USD",
-      "impact": "High",
-      "title": "Core CPI y/y"
-    },
-    {
-      "timestamp": 1789129800,
-      "time_utc": "2026.09.11 12:30",
-      "currency": "USD",
-      "impact": "High",
-      "title": "CPI m/m"
-    },
-    {
-      "timestamp": 1789129800,
-      "time_utc": "2026.09.11 12:30",
-      "currency": "USD",
-      "impact": "High",
-      "title": "CPI y/y"
-    },
-    {
-      "timestamp": 1789135200,
-      "time_utc": "2026.09.11 14:00",
-      "currency": "EUR",
-      "impact": "Medium",
-      "title": "ECB President Lagarde Speaks"
-    },
-    {
-      "timestamp": 1789135200,
-      "time_utc": "2026.09.11 14:00",
-      "currency": "USD",
-      "impact": "Medium",
-      "title": "Prelim UoM Consumer Sentiment"
-    },
-    {
-      "timestamp": 1789135200,
-      "time_utc": "2026.09.11 14:00",
-      "currency": "USD",
-      "impact": "Medium",
-      "title": "Prelim UoM Inflation Expectations"
-    },
-    {
-      "timestamp": 1789200000,
-      "time_utc": "2026.09.12 08:00",
-      "currency": "EUR",
-      "impact": "Medium",
-      "title": "ECB President Lagarde Speaks"
     }
   ]
 }

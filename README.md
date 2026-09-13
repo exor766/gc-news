@@ -5,8 +5,8 @@
 
 - **JSON Feed:** `https://raw.githubusercontent.com/exor766/gc-news/main/news.json`
 - **CSV Feed (Рекомендуется для MT4):** `https://raw.githubusercontent.com/exor766/gc-news/main/news.csv`
-- **Последнее обновление:** `2026.09.13 00:37:27 UTC`
-- **Активных событий в базе:** `15`
+- **Последнее обновление:** `2026.09.13 05:40:35 UTC`
+- **Активных событий в базе:** `8`
 
 ---
 
@@ -26,18 +26,11 @@
 
 | Время (UTC) | Валюта | Важность | Событие |
 |---|---|---|---|
-| `2026.09.10 01:15` | **USD** | 🟠 Medium | President Trump Speaks |
-| `2026.09.10 12:15` | **EUR** | 🔴 High | Main Refinancing Rate |
-| `2026.09.10 12:15` | **EUR** | 🔴 High | Monetary Policy Statement |
-| `2026.09.10 12:30` | **USD** | 🔴 High | Core PPI m/m |
-| `2026.09.10 12:30` | **USD** | 🔴 High | PPI m/m |
-| `2026.09.10 12:30` | **USD** | 🟠 Medium | Unemployment Claims |
-| `2026.09.10 12:45` | **EUR** | 🔴 High | ECB Press Conference |
-| `2026.09.11 12:30` | **USD** | 🔴 High | Core CPI m/m |
-| `2026.09.11 12:30` | **USD** | 🔴 High | Core CPI y/y |
-| `2026.09.11 12:30` | **USD** | 🔴 High | CPI m/m |
-| `2026.09.11 12:30` | **USD** | 🔴 High | CPI y/y |
-| `2026.09.11 14:00` | **EUR** | 🟠 Medium | ECB President Lagarde Speaks |
-| `2026.09.11 14:00` | **USD** | 🟠 Medium | Prelim UoM Consumer Sentiment |
-| `2026.09.11 14:00` | **USD** | 🟠 Medium | Prelim UoM Inflation Expectations |
-| `2026.09.12 08:00` | **EUR** | 🟠 Medium | ECB President Lagarde Speaks |
+| `2026.09.16 12:30` | **USD** | 🟠 Medium | Core Retail Sales m/m |
+| `2026.09.16 12:30` | **USD** | 🟠 Medium | Retail Sales m/m |
+| `2026.09.16 18:00` | **USD** | 🔴 High | Federal Funds Rate |
+| `2026.09.16 18:00` | **USD** | 🔴 High | FOMC Economic Projections |
+| `2026.09.16 18:00` | **USD** | 🔴 High | FOMC Statement |
+| `2026.09.16 18:30` | **USD** | 🔴 High | FOMC Press Conference |
+| `2026.09.17 12:30` | **USD** | 🟠 Medium | Philly Fed Manufacturing Index |
+| `2026.09.17 12:30` | **USD** | 🟠 Medium | Unemployment Claims |
