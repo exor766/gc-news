@@ -1,4 +1,5 @@
-﻿import json
+import json
+import os
 import urllib.request
 import datetime
 from email.utils import parsedate_to_datetime
@@ -17,8 +18,26 @@ def fetch_calendar():
 
 def main():
     raw_events = fetch_calendar()
-    filtered = []
     
+    # Load existing events from news.json to maintain a rolling 14-day history
+    existing_events = []
+    if os.path.exists("news.json"):
+        try:
+            with open("news.json", "r", encoding="utf-8") as f:
+                old_data = json.load(f)
+                existing_events = old_data.get("events", [])
+        except Exception as e:
+            print("Error loading existing news.json:", e)
+
+    now_dt = datetime.datetime.now(datetime.timezone.utc)
+    cutoff_ts = int(now_dt.timestamp()) - 14 * 86400
+
+    merged_map = {}
+    for ev in existing_events:
+        if ev.get("timestamp", 0) >= cutoff_ts:
+            key = (ev["timestamp"], ev.get("currency", ""), ev.get("title", ""))
+            merged_map[key] = ev
+
     for item in raw_events:
         impact = item.get("impact", "").strip()
         country = item.get("country", "").strip().upper()
@@ -35,20 +54,21 @@ def main():
                 ts = int(dt_utc.timestamp())
                 time_utc_str = dt_utc.strftime("%Y.%m.%d %H:%M")
                 
-                filtered.append({
+                key = (ts, country, title)
+                merged_map[key] = {
                     "timestamp": ts,
                     "time_utc": time_utc_str,
                     "currency": country,
                     "impact": impact,
                     "title": title
-                })
+                }
             except Exception as e:
                 continue
 
-    # Sort by timestamp
+    filtered = list(merged_map.values())
     filtered.sort(key=lambda x: x["timestamp"])
     
-    now_utc = datetime.datetime.now(datetime.timezone.utc).strftime("%Y.%m.%d %H:%M:%S UTC")
+    now_utc = now_dt.strftime("%Y.%m.%d %H:%M:%S UTC")
     
     # 1. Output news.json
     result_json = {

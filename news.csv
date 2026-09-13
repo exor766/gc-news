@@ -1,4 +1,18 @@
 # timestamp;time_utc;currency;impact;title
+1789002900;2026.09.10 01:15;USD;Medium;President Trump Speaks
+1789042500;2026.09.10 12:15;EUR;High;Main Refinancing Rate
+1789042500;2026.09.10 12:15;EUR;High;Monetary Policy Statement
+1789043400;2026.09.10 12:30;USD;High;Core PPI m/m
+1789043400;2026.09.10 12:30;USD;High;PPI m/m
+1789043400;2026.09.10 12:30;USD;Medium;Unemployment Claims
+1789044300;2026.09.10 12:45;EUR;High;ECB Press Conference
+1789129800;2026.09.11 12:30;USD;High;Core CPI m/m
+1789129800;2026.09.11 12:30;USD;High;Core CPI y/y
+1789129800;2026.09.11 12:30;USD;High;CPI m/m
+1789129800;2026.09.11 12:30;USD;High;CPI y/y
+1789135200;2026.09.11 14:00;EUR;Medium;ECB President Lagarde Speaks
+1789135200;2026.09.11 14:00;USD;Medium;Prelim UoM Consumer Sentiment
+1789135200;2026.09.11 14:00;USD;Medium;Prelim UoM Inflation Expectations
 1789561800;2026.09.16 12:30;USD;Medium;Core Retail Sales m/m
 1789561800;2026.09.16 12:30;USD;Medium;Retail Sales m/m
 1789581600;2026.09.16 18:00;USD;High;Federal Funds Rate
