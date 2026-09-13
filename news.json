@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026.09.13 21:01:07 UTC",
-  "count": 22,
+  "updated_at": "2026.09.13 23:18:48 UTC",
+  "count": 24,
   "events": [
     {
       "timestamp": 1789002900,
@@ -101,6 +101,13 @@
       "title": "Prelim UoM Inflation Expectations"
     },
     {
+      "timestamp": 1789398900,
+      "time_utc": "2026.09.14 15:15",
+      "currency": "EUR",
+      "impact": "Medium",
+      "title": "ECB President Lagarde Speaks"
+    },
+    {
       "timestamp": 1789561800,
       "time_utc": "2026.09.16 12:30",
       "currency": "USD",
@@ -155,6 +162,13 @@
       "currency": "USD",
       "impact": "Medium",
       "title": "Unemployment Claims"
+    },
+    {
+      "timestamp": 1789727400,
+      "time_utc": "2026.09.18 10:30",
+      "currency": "EUR",
+      "impact": "Medium",
+      "title": "ECB President Lagarde Speaks"
     }
   ]
 }
