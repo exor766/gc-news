@@ -5,8 +5,8 @@
 
 - **JSON Feed:** `https://raw.githubusercontent.com/exor766/gc-news/main/news.json`
 - **CSV Feed (Рекомендуется для MT4):** `https://raw.githubusercontent.com/exor766/gc-news/main/news.csv`
-- **Последнее обновление:** `2026.09.15 12:00:04 UTC`
-- **Активных событий в базе:** `24`
+- **Последнее обновление:** `2026.09.15 16:49:56 UTC`
+- **Активных событий в базе:** `25`
 
 ---
 
@@ -41,6 +41,7 @@
 | `2026.09.11 14:00` | **USD** | 🟠 Medium | Prelim UoM Consumer Sentiment |
 | `2026.09.11 14:00` | **USD** | 🟠 Medium | Prelim UoM Inflation Expectations |
 | `2026.09.14 15:15` | **EUR** | 🟠 Medium | ECB President Lagarde Speaks |
+| `2026.09.15 14:00` | **USD** | 🟠 Medium | Treasury Sec Bessent Speaks |
 | `2026.09.16 12:30` | **USD** | 🟠 Medium | Core Retail Sales m/m |
 | `2026.09.16 12:30` | **USD** | 🟠 Medium | Retail Sales m/m |
 | `2026.09.16 18:00` | **USD** | 🔴 High | Federal Funds Rate |

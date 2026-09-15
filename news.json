@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026.09.15 12:00:04 UTC",
-  "count": 24,
+  "updated_at": "2026.09.15 16:49:56 UTC",
+  "count": 25,
   "events": [
     {
       "timestamp": 1789002900,
@@ -106,6 +106,13 @@
       "currency": "EUR",
       "impact": "Medium",
       "title": "ECB President Lagarde Speaks"
+    },
+    {
+      "timestamp": 1789480800,
+      "time_utc": "2026.09.15 14:00",
+      "currency": "USD",
+      "impact": "Medium",
+      "title": "Treasury Sec Bessent Speaks"
     },
     {
       "timestamp": 1789561800,
