@@ -5,8 +5,8 @@
 
 - **JSON Feed:** `https://raw.githubusercontent.com/exor766/gc-news/main/news.json`
 - **CSV Feed (Рекомендуется для MT4):** `https://raw.githubusercontent.com/exor766/gc-news/main/news.csv`
-- **Последнее обновление:** `2026.09.20 00:40:08 UTC`
-- **Активных событий в базе:** `25`
+- **Последнее обновление:** `2026.09.20 05:43:54 UTC`
+- **Активных событий в базе:** `34`
 
 ---
 
@@ -51,3 +51,12 @@
 | `2026.09.17 12:30` | **USD** | 🟠 Medium | Philly Fed Manufacturing Index |
 | `2026.09.17 12:30` | **USD** | 🟠 Medium | Unemployment Claims |
 | `2026.09.18 10:30` | **EUR** | 🟠 Medium | ECB President Lagarde Speaks |
+| `2026.09.21 15:00` | **EUR** | 🟠 Medium | ECB President Lagarde Speaks |
+| `2026.09.22 11:00` | **EUR** | 🟠 Medium | ECB President Lagarde Speaks |
+| `2026.09.23 07:15` | **EUR** | 🟠 Medium | French Flash Manufacturing PMI |
+| `2026.09.23 07:15` | **EUR** | 🟠 Medium | French Flash Services PMI |
+| `2026.09.23 07:30` | **EUR** | 🟠 Medium | German Flash Manufacturing PMI |
+| `2026.09.23 07:30` | **EUR** | 🟠 Medium | German Flash Services PMI |
+| `2026.09.24 12:30` | **USD** | 🟠 Medium | Unemployment Claims |
+| `2026.09.25 14:00` | **USD** | 🟠 Medium | Revised UoM Consumer Sentiment |
+| `2026.09.25 14:00` | **USD** | 🟠 Medium | Revised UoM Inflation Expectations |

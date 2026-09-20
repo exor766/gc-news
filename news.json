@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026.09.20 00:40:08 UTC",
-  "count": 25,
+  "updated_at": "2026.09.20 05:43:54 UTC",
+  "count": 34,
   "events": [
     {
       "timestamp": 1789002900,
@@ -176,6 +176,69 @@
       "currency": "EUR",
       "impact": "Medium",
       "title": "ECB President Lagarde Speaks"
+    },
+    {
+      "timestamp": 1790002800,
+      "time_utc": "2026.09.21 15:00",
+      "currency": "EUR",
+      "impact": "Medium",
+      "title": "ECB President Lagarde Speaks"
+    },
+    {
+      "timestamp": 1790074800,
+      "time_utc": "2026.09.22 11:00",
+      "currency": "EUR",
+      "impact": "Medium",
+      "title": "ECB President Lagarde Speaks"
+    },
+    {
+      "timestamp": 1790147700,
+      "time_utc": "2026.09.23 07:15",
+      "currency": "EUR",
+      "impact": "Medium",
+      "title": "French Flash Manufacturing PMI"
+    },
+    {
+      "timestamp": 1790147700,
+      "time_utc": "2026.09.23 07:15",
+      "currency": "EUR",
+      "impact": "Medium",
+      "title": "French Flash Services PMI"
+    },
+    {
+      "timestamp": 1790148600,
+      "time_utc": "2026.09.23 07:30",
+      "currency": "EUR",
+      "impact": "Medium",
+      "title": "German Flash Manufacturing PMI"
+    },
+    {
+      "timestamp": 1790148600,
+      "time_utc": "2026.09.23 07:30",
+      "currency": "EUR",
+      "impact": "Medium",
+      "title": "German Flash Services PMI"
+    },
+    {
+      "timestamp": 1790253000,
+      "time_utc": "2026.09.24 12:30",
+      "currency": "USD",
+      "impact": "Medium",
+      "title": "Unemployment Claims"
+    },
+    {
+      "timestamp": 1790344800,
+      "time_utc": "2026.09.25 14:00",
+      "currency": "USD",
+      "impact": "Medium",
+      "title": "Revised UoM Consumer Sentiment"
+    },
+    {
+      "timestamp": 1790344800,
+      "time_utc": "2026.09.25 14:00",
+      "currency": "USD",
+      "impact": "Medium",
+      "title": "Revised UoM Inflation Expectations"
     }
   ]
 }
