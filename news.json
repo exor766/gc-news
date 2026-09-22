@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026.09.22 06:34:17 UTC",
-  "count": 34,
+  "updated_at": "2026.09.22 12:21:37 UTC",
+  "count": 35,
   "events": [
     {
       "timestamp": 1789002900,
@@ -190,6 +190,13 @@
       "currency": "EUR",
       "impact": "Medium",
       "title": "ECB President Lagarde Speaks"
+    },
+    {
+      "timestamp": 1790085300,
+      "time_utc": "2026.09.22 13:55",
+      "currency": "USD",
+      "impact": "Medium",
+      "title": "President Trump Speaks"
     },
     {
       "timestamp": 1790147700,
