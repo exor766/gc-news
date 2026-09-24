@@ -5,8 +5,8 @@
 
 - **JSON Feed:** `https://raw.githubusercontent.com/exor766/gc-news/main/news.json`
 - **CSV Feed (Рекомендуется для MT4):** `https://raw.githubusercontent.com/exor766/gc-news/main/news.csv`
-- **Последнее обновление:** `2026.09.23 23:51:24 UTC`
-- **Активных событий в базе:** `35`
+- **Последнее обновление:** `2026.09.24 03:16:33 UTC`
+- **Активных событий в базе:** `34`
 
 ---
 
@@ -26,7 +26,6 @@
 
 | Время (UTC) | Валюта | Важность | Событие |
 |---|---|---|---|
-| `2026.09.10 01:15` | **USD** | 🟠 Medium | President Trump Speaks |
 | `2026.09.10 12:15` | **EUR** | 🔴 High | Main Refinancing Rate |
 | `2026.09.10 12:15` | **EUR** | 🔴 High | Monetary Policy Statement |
 | `2026.09.10 12:30` | **USD** | 🔴 High | Core PPI m/m |
