@@ -5,8 +5,8 @@
 
 - **JSON Feed:** `https://raw.githubusercontent.com/exor766/gc-news/main/news.json`
 - **CSV Feed (Рекомендуется для MT4):** `https://raw.githubusercontent.com/exor766/gc-news/main/news.csv`
-- **Последнее обновление:** `2026.09.24 08:39:38 UTC`
-- **Активных событий в базе:** `34`
+- **Последнее обновление:** `2026.09.24 14:01:36 UTC`
+- **Активных событий в базе:** `29`
 
 ---
 
@@ -26,12 +26,6 @@
 
 | Время (UTC) | Валюта | Важность | Событие |
 |---|---|---|---|
-| `2026.09.10 12:15` | **EUR** | 🔴 High | Main Refinancing Rate |
-| `2026.09.10 12:15` | **EUR** | 🔴 High | Monetary Policy Statement |
-| `2026.09.10 12:30` | **USD** | 🔴 High | Core PPI m/m |
-| `2026.09.10 12:30` | **USD** | 🔴 High | PPI m/m |
-| `2026.09.10 12:30` | **USD** | 🟠 Medium | Unemployment Claims |
-| `2026.09.10 12:45` | **EUR** | 🔴 High | ECB Press Conference |
 | `2026.09.11 12:30` | **USD** | 🔴 High | Core CPI m/m |
 | `2026.09.11 12:30` | **USD** | 🔴 High | Core CPI y/y |
 | `2026.09.11 12:30` | **USD** | 🔴 High | CPI m/m |
@@ -58,5 +52,6 @@
 | `2026.09.23 07:30` | **EUR** | 🟠 Medium | German Flash Manufacturing PMI |
 | `2026.09.23 07:30` | **EUR** | 🟠 Medium | German Flash Services PMI |
 | `2026.09.24 12:30` | **USD** | 🟠 Medium | Unemployment Claims |
+| `2026.09.24 14:15` | **USD** | 🟠 Medium | President Trump Speaks |
 | `2026.09.25 14:00` | **USD** | 🟠 Medium | Revised UoM Consumer Sentiment |
 | `2026.09.25 14:00` | **USD** | 🟠 Medium | Revised UoM Inflation Expectations |

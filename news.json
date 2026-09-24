@@ -1,49 +1,7 @@
 {
-  "updated_at": "2026.09.24 08:39:38 UTC",
-  "count": 34,
+  "updated_at": "2026.09.24 14:01:36 UTC",
+  "count": 29,
   "events": [
-    {
-      "timestamp": 1789042500,
-      "time_utc": "2026.09.10 12:15",
-      "currency": "EUR",
-      "impact": "High",
-      "title": "Main Refinancing Rate"
-    },
-    {
-      "timestamp": 1789042500,
-      "time_utc": "2026.09.10 12:15",
-      "currency": "EUR",
-      "impact": "High",
-      "title": "Monetary Policy Statement"
-    },
-    {
-      "timestamp": 1789043400,
-      "time_utc": "2026.09.10 12:30",
-      "currency": "USD",
-      "impact": "High",
-      "title": "Core PPI m/m"
-    },
-    {
-      "timestamp": 1789043400,
-      "time_utc": "2026.09.10 12:30",
-      "currency": "USD",
-      "impact": "High",
-      "title": "PPI m/m"
-    },
-    {
-      "timestamp": 1789043400,
-      "time_utc": "2026.09.10 12:30",
-      "currency": "USD",
-      "impact": "Medium",
-      "title": "Unemployment Claims"
-    },
-    {
-      "timestamp": 1789044300,
-      "time_utc": "2026.09.10 12:45",
-      "currency": "EUR",
-      "impact": "High",
-      "title": "ECB Press Conference"
-    },
     {
       "timestamp": 1789129800,
       "time_utc": "2026.09.11 12:30",
@@ -225,6 +183,13 @@
       "currency": "USD",
       "impact": "Medium",
       "title": "Unemployment Claims"
+    },
+    {
+      "timestamp": 1790259300,
+      "time_utc": "2026.09.24 14:15",
+      "currency": "USD",
+      "impact": "Medium",
+      "title": "President Trump Speaks"
     },
     {
       "timestamp": 1790344800,

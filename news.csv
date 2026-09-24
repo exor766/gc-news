@@ -1,10 +1,4 @@
 # timestamp;time_utc;currency;impact;title
-1789042500;2026.09.10 12:15;EUR;High;Main Refinancing Rate
-1789042500;2026.09.10 12:15;EUR;High;Monetary Policy Statement
-1789043400;2026.09.10 12:30;USD;High;Core PPI m/m
-1789043400;2026.09.10 12:30;USD;High;PPI m/m
-1789043400;2026.09.10 12:30;USD;Medium;Unemployment Claims
-1789044300;2026.09.10 12:45;EUR;High;ECB Press Conference
 1789129800;2026.09.11 12:30;USD;High;Core CPI m/m
 1789129800;2026.09.11 12:30;USD;High;Core CPI y/y
 1789129800;2026.09.11 12:30;USD;High;CPI m/m
@@ -31,5 +25,6 @@
 1790148600;2026.09.23 07:30;EUR;Medium;German Flash Manufacturing PMI
 1790148600;2026.09.23 07:30;EUR;Medium;German Flash Services PMI
 1790253000;2026.09.24 12:30;USD;Medium;Unemployment Claims
+1790259300;2026.09.24 14:15;USD;Medium;President Trump Speaks
 1790344800;2026.09.25 14:00;USD;Medium;Revised UoM Consumer Sentiment
 1790344800;2026.09.25 14:00;USD;Medium;Revised UoM Inflation Expectations
