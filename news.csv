@@ -1,11 +1,4 @@
 # timestamp;time_utc;currency;impact;title
-1789129800;2026.09.11 12:30;USD;High;Core CPI m/m
-1789129800;2026.09.11 12:30;USD;High;Core CPI y/y
-1789129800;2026.09.11 12:30;USD;High;CPI m/m
-1789129800;2026.09.11 12:30;USD;High;CPI y/y
-1789135200;2026.09.11 14:00;EUR;Medium;ECB President Lagarde Speaks
-1789135200;2026.09.11 14:00;USD;Medium;Prelim UoM Consumer Sentiment
-1789135200;2026.09.11 14:00;USD;Medium;Prelim UoM Inflation Expectations
 1789398900;2026.09.14 15:15;EUR;Medium;ECB President Lagarde Speaks
 1789480800;2026.09.15 14:00;USD;Medium;Treasury Sec Bessent Speaks
 1789561800;2026.09.16 12:30;USD;Medium;Core Retail Sales m/m
