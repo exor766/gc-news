@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026.09.27 00:46:34 UTC",
-  "count": 23,
+  "updated_at": "2026.09.27 06:14:51 UTC",
+  "count": 41,
   "events": [
     {
       "timestamp": 1789398900,
@@ -162,6 +162,132 @@
       "currency": "USD",
       "impact": "Medium",
       "title": "Revised UoM Inflation Expectations"
+    },
+    {
+      "timestamp": 1790602200,
+      "time_utc": "2026.09.28 13:30",
+      "currency": "EUR",
+      "impact": "Medium",
+      "title": "ECB President Lagarde Speaks"
+    },
+    {
+      "timestamp": 1790679600,
+      "time_utc": "2026.09.29 11:00",
+      "currency": "EUR",
+      "impact": "Medium",
+      "title": "ECB President Lagarde Speaks"
+    },
+    {
+      "timestamp": 1790690400,
+      "time_utc": "2026.09.29 14:00",
+      "currency": "USD",
+      "impact": "Medium",
+      "title": "CB Consumer Confidence"
+    },
+    {
+      "timestamp": 1790690400,
+      "time_utc": "2026.09.29 14:00",
+      "currency": "USD",
+      "impact": "Medium",
+      "title": "JOLTS Job Openings"
+    },
+    {
+      "timestamp": 1790749740,
+      "time_utc": "2026.09.30 06:29",
+      "currency": "EUR",
+      "impact": "Medium",
+      "title": "German Prelim CPI m/m"
+    },
+    {
+      "timestamp": 1790770500,
+      "time_utc": "2026.09.30 12:15",
+      "currency": "USD",
+      "impact": "Medium",
+      "title": "ADP Non-Farm Employment Change"
+    },
+    {
+      "timestamp": 1790771400,
+      "time_utc": "2026.09.30 12:30",
+      "currency": "USD",
+      "impact": "High",
+      "title": "Core PCE Price Index m/m"
+    },
+    {
+      "timestamp": 1790771400,
+      "time_utc": "2026.09.30 12:30",
+      "currency": "USD",
+      "impact": "High",
+      "title": "Final GDP q/q"
+    },
+    {
+      "timestamp": 1790771400,
+      "time_utc": "2026.09.30 12:30",
+      "currency": "USD",
+      "impact": "Medium",
+      "title": "Final GDP Price Index q/q"
+    },
+    {
+      "timestamp": 1790857800,
+      "time_utc": "2026.10.01 12:30",
+      "currency": "USD",
+      "impact": "Medium",
+      "title": "Unemployment Claims"
+    },
+    {
+      "timestamp": 1790861400,
+      "time_utc": "2026.10.01 13:30",
+      "currency": "EUR",
+      "impact": "Medium",
+      "title": "ECB President Lagarde Speaks"
+    },
+    {
+      "timestamp": 1790863200,
+      "time_utc": "2026.10.01 14:00",
+      "currency": "USD",
+      "impact": "Medium",
+      "title": "FOMC Member Waller Speaks"
+    },
+    {
+      "timestamp": 1790863200,
+      "time_utc": "2026.10.01 14:00",
+      "currency": "USD",
+      "impact": "Medium",
+      "title": "ISM Manufacturing PMI"
+    },
+    {
+      "timestamp": 1790931600,
+      "time_utc": "2026.10.02 09:00",
+      "currency": "EUR",
+      "impact": "Medium",
+      "title": "Core CPI Flash Estimate y/y"
+    },
+    {
+      "timestamp": 1790931600,
+      "time_utc": "2026.10.02 09:00",
+      "currency": "EUR",
+      "impact": "Medium",
+      "title": "CPI Flash Estimate y/y"
+    },
+    {
+      "timestamp": 1790944200,
+      "time_utc": "2026.10.02 12:30",
+      "currency": "USD",
+      "impact": "High",
+      "title": "Average Hourly Earnings m/m"
+    },
+    {
+      "timestamp": 1790944200,
+      "time_utc": "2026.10.02 12:30",
+      "currency": "USD",
+      "impact": "High",
+      "title": "Non-Farm Employment Change"
+    },
+    {
+      "timestamp": 1790944200,
+      "time_utc": "2026.10.02 12:30",
+      "currency": "USD",
+      "impact": "High",
+      "title": "Unemployment Rate"
     }
   ]
 }
