@@ -5,8 +5,8 @@
 
 - **JSON Feed:** `https://raw.githubusercontent.com/exor766/gc-news/main/news.json`
 - **CSV Feed (Рекомендуется для MT4):** `https://raw.githubusercontent.com/exor766/gc-news/main/news.csv`
-- **Последнее обновление:** `2026.09.28 08:14:49 UTC`
-- **Активных событий в базе:** `41`
+- **Последнее обновление:** `2026.09.28 16:53:20 UTC`
+- **Активных событий в базе:** `40`
 
 ---
 
@@ -26,7 +26,6 @@
 
 | Время (UTC) | Валюта | Важность | Событие |
 |---|---|---|---|
-| `2026.09.14 15:15` | **EUR** | 🟠 Medium | ECB President Lagarde Speaks |
 | `2026.09.15 14:00` | **USD** | 🟠 Medium | Treasury Sec Bessent Speaks |
 | `2026.09.16 12:30` | **USD** | 🟠 Medium | Core Retail Sales m/m |
 | `2026.09.16 12:30` | **USD** | 🟠 Medium | Retail Sales m/m |
