@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026.09.29 08:51:46 UTC",
-  "count": 40,
+  "updated_at": "2026.09.29 15:22:27 UTC",
+  "count": 39,
   "events": [
-    {
-      "timestamp": 1789480800,
-      "time_utc": "2026.09.15 14:00",
-      "currency": "USD",
-      "impact": "Medium",
-      "title": "Treasury Sec Bessent Speaks"
-    },
     {
       "timestamp": 1789561800,
       "time_utc": "2026.09.16 12:30",

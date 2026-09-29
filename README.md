@@ -5,8 +5,8 @@
 
 - **JSON Feed:** `https://raw.githubusercontent.com/exor766/gc-news/main/news.json`
 - **CSV Feed (Рекомендуется для MT4):** `https://raw.githubusercontent.com/exor766/gc-news/main/news.csv`
-- **Последнее обновление:** `2026.09.29 08:51:46 UTC`
-- **Активных событий в базе:** `40`
+- **Последнее обновление:** `2026.09.29 15:22:27 UTC`
+- **Активных событий в базе:** `39`
 
 ---
 
@@ -26,7 +26,6 @@
 
 | Время (UTC) | Валюта | Важность | Событие |
 |---|---|---|---|
-| `2026.09.15 14:00` | **USD** | 🟠 Medium | Treasury Sec Bessent Speaks |
 | `2026.09.16 12:30` | **USD** | 🟠 Medium | Core Retail Sales m/m |
 | `2026.09.16 12:30` | **USD** | 🟠 Medium | Retail Sales m/m |
 | `2026.09.16 18:00` | **USD** | 🔴 High | Federal Funds Rate |
