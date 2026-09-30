@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026.09.29 23:52:23 UTC",
-  "count": 39,
+  "updated_at": "2026.09.30 04:06:21 UTC",
+  "count": 40,
   "events": [
     {
       "timestamp": 1789561800,
@@ -211,6 +211,13 @@
       "currency": "USD",
       "impact": "Medium",
       "title": "Final GDP Price Index q/q"
+    },
+    {
+      "timestamp": 1790796600,
+      "time_utc": "2026.09.30 19:30",
+      "currency": "USD",
+      "impact": "Medium",
+      "title": "President Trump Speaks"
     },
     {
       "timestamp": 1790857800,

@@ -5,8 +5,8 @@
 
 - **JSON Feed:** `https://raw.githubusercontent.com/exor766/gc-news/main/news.json`
 - **CSV Feed (Рекомендуется для MT4):** `https://raw.githubusercontent.com/exor766/gc-news/main/news.csv`
-- **Последнее обновление:** `2026.09.29 23:52:23 UTC`
-- **Активных событий в базе:** `39`
+- **Последнее обновление:** `2026.09.30 04:06:21 UTC`
+- **Активных событий в базе:** `40`
 
 ---
 
@@ -56,6 +56,7 @@
 | `2026.09.30 12:30` | **USD** | 🔴 High | Core PCE Price Index m/m |
 | `2026.09.30 12:30` | **USD** | 🔴 High | Final GDP q/q |
 | `2026.09.30 12:30` | **USD** | 🟠 Medium | Final GDP Price Index q/q |
+| `2026.09.30 19:30` | **USD** | 🟠 Medium | President Trump Speaks |
 | `2026.10.01 12:30` | **USD** | 🟠 Medium | Unemployment Claims |
 | `2026.10.01 13:30` | **EUR** | 🟠 Medium | ECB President Lagarde Speaks |
 | `2026.10.01 14:00` | **USD** | 🟠 Medium | FOMC Member Waller Speaks |
