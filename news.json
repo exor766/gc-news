@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026.09.30 10:38:17 UTC",
-  "count": 40,
+  "updated_at": "2026.09.30 16:39:47 UTC",
+  "count": 39,
   "events": [
-    {
-      "timestamp": 1789561800,
-      "time_utc": "2026.09.16 12:30",
-      "currency": "USD",
-      "impact": "Medium",
-      "title": "Core Retail Sales m/m"
-    },
-    {
-      "timestamp": 1789561800,
-      "time_utc": "2026.09.16 12:30",
-      "currency": "USD",
-      "impact": "Medium",
-      "title": "Retail Sales m/m"
-    },
     {
       "timestamp": 1789581600,
       "time_utc": "2026.09.16 18:00",
@@ -218,6 +204,13 @@
       "currency": "USD",
       "impact": "Medium",
       "title": "President Trump Speaks"
+    },
+    {
+      "timestamp": 1790805600,
+      "time_utc": "2026.09.30 22:00",
+      "currency": "USD",
+      "impact": "Medium",
+      "title": "FOMC Member Kashkari Speaks"
     },
     {
       "timestamp": 1790857800,
