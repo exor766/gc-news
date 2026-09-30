@@ -1,35 +1,7 @@
 {
-  "updated_at": "2026.09.30 16:39:47 UTC",
-  "count": 39,
+  "updated_at": "2026.09.30 21:12:44 UTC",
+  "count": 35,
   "events": [
-    {
-      "timestamp": 1789581600,
-      "time_utc": "2026.09.16 18:00",
-      "currency": "USD",
-      "impact": "High",
-      "title": "Federal Funds Rate"
-    },
-    {
-      "timestamp": 1789581600,
-      "time_utc": "2026.09.16 18:00",
-      "currency": "USD",
-      "impact": "High",
-      "title": "FOMC Economic Projections"
-    },
-    {
-      "timestamp": 1789581600,
-      "time_utc": "2026.09.16 18:00",
-      "currency": "USD",
-      "impact": "High",
-      "title": "FOMC Statement"
-    },
-    {
-      "timestamp": 1789583400,
-      "time_utc": "2026.09.16 18:30",
-      "currency": "USD",
-      "impact": "High",
-      "title": "FOMC Press Conference"
-    },
     {
       "timestamp": 1789648200,
       "time_utc": "2026.09.17 12:30",

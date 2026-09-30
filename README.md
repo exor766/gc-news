@@ -5,8 +5,8 @@
 
 - **JSON Feed:** `https://raw.githubusercontent.com/exor766/gc-news/main/news.json`
 - **CSV Feed (Рекомендуется для MT4):** `https://raw.githubusercontent.com/exor766/gc-news/main/news.csv`
-- **Последнее обновление:** `2026.09.30 16:39:47 UTC`
-- **Активных событий в базе:** `39`
+- **Последнее обновление:** `2026.09.30 21:12:44 UTC`
+- **Активных событий в базе:** `35`
 
 ---
 
@@ -26,10 +26,6 @@
 
 | Время (UTC) | Валюта | Важность | Событие |
 |---|---|---|---|
-| `2026.09.16 18:00` | **USD** | 🔴 High | Federal Funds Rate |
-| `2026.09.16 18:00` | **USD** | 🔴 High | FOMC Economic Projections |
-| `2026.09.16 18:00` | **USD** | 🔴 High | FOMC Statement |
-| `2026.09.16 18:30` | **USD** | 🔴 High | FOMC Press Conference |
 | `2026.09.17 12:30` | **USD** | 🟠 Medium | Philly Fed Manufacturing Index |
 | `2026.09.17 12:30` | **USD** | 🟠 Medium | Unemployment Claims |
 | `2026.09.18 10:30` | **EUR** | 🟠 Medium | ECB President Lagarde Speaks |
