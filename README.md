@@ -5,8 +5,8 @@
 
 - **JSON Feed:** `https://raw.githubusercontent.com/exor766/gc-news/main/news.json`
 - **CSV Feed (Рекомендуется для MT4):** `https://raw.githubusercontent.com/exor766/gc-news/main/news.csv`
-- **Последнее обновление:** `2026.10.01 06:50:49 UTC`
-- **Активных событий в базе:** `35`
+- **Последнее обновление:** `2026.10.01 14:11:22 UTC`
+- **Активных событий в базе:** `33`
 
 ---
 
@@ -26,8 +26,6 @@
 
 | Время (UTC) | Валюта | Важность | Событие |
 |---|---|---|---|
-| `2026.09.17 12:30` | **USD** | 🟠 Medium | Philly Fed Manufacturing Index |
-| `2026.09.17 12:30` | **USD** | 🟠 Medium | Unemployment Claims |
 | `2026.09.18 10:30` | **EUR** | 🟠 Medium | ECB President Lagarde Speaks |
 | `2026.09.21 15:00` | **EUR** | 🟠 Medium | ECB President Lagarde Speaks |
 | `2026.09.22 11:00` | **EUR** | 🟠 Medium | ECB President Lagarde Speaks |
