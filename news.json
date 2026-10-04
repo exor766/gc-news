@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026.10.04 00:28:36 UTC",
-  "count": 32,
+  "updated_at": "2026.10.04 06:14:05 UTC",
+  "count": 38,
   "events": [
     {
       "timestamp": 1790002800,
@@ -225,6 +225,48 @@
       "currency": "USD",
       "impact": "High",
       "title": "Unemployment Rate"
+    },
+    {
+      "timestamp": 1791105300,
+      "time_utc": "2026.10.04 09:15",
+      "currency": "ALL",
+      "impact": "Medium",
+      "title": "OPEC-JMMC Meetings"
+    },
+    {
+      "timestamp": 1791208800,
+      "time_utc": "2026.10.05 14:00",
+      "currency": "USD",
+      "impact": "Medium",
+      "title": "ISM Services PMI"
+    },
+    {
+      "timestamp": 1791396000,
+      "time_utc": "2026.10.07 18:00",
+      "currency": "USD",
+      "impact": "High",
+      "title": "FOMC Meeting Minutes"
+    },
+    {
+      "timestamp": 1791462600,
+      "time_utc": "2026.10.08 12:30",
+      "currency": "USD",
+      "impact": "Medium",
+      "title": "Unemployment Claims"
+    },
+    {
+      "timestamp": 1791554400,
+      "time_utc": "2026.10.09 14:00",
+      "currency": "USD",
+      "impact": "Medium",
+      "title": "Prelim UoM Consumer Sentiment"
+    },
+    {
+      "timestamp": 1791554400,
+      "time_utc": "2026.10.09 14:00",
+      "currency": "USD",
+      "impact": "Medium",
+      "title": "Prelim UoM Inflation Expectations"
     }
   ]
 }
