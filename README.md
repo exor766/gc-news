@@ -5,7 +5,7 @@
 
 - **JSON Feed:** `https://raw.githubusercontent.com/exor766/gc-news/main/news.json`
 - **CSV Feed (Рекомендуется для MT4):** `https://raw.githubusercontent.com/exor766/gc-news/main/news.csv`
-- **Последнее обновление:** `2026.10.05 09:27:37 UTC`
+- **Последнее обновление:** `2026.10.05 18:45:46 UTC`
 - **Активных событий в базе:** `38`
 
 ---
@@ -26,7 +26,6 @@
 
 | Время (UTC) | Валюта | Важность | Событие |
 |---|---|---|---|
-| `2026.09.21 15:00` | **EUR** | 🟠 Medium | ECB President Lagarde Speaks |
 | `2026.09.22 11:00` | **EUR** | 🟠 Medium | ECB President Lagarde Speaks |
 | `2026.09.22 13:55` | **USD** | 🟠 Medium | President Trump Speaks |
 | `2026.09.23 07:15` | **EUR** | 🟠 Medium | French Flash Manufacturing PMI |
@@ -61,6 +60,7 @@
 | `2026.10.04 09:15` | **ALL** | 🟠 Medium | OPEC-JMMC Meetings |
 | `2026.10.05 14:00` | **USD** | 🟠 Medium | ISM Services PMI |
 | `2026.10.07 18:00` | **USD** | 🔴 High | FOMC Meeting Minutes |
+| `2026.10.08 08:30` | **USD** | 🟠 Medium | FOMC Member Waller Speaks |
 | `2026.10.08 12:30` | **USD** | 🟠 Medium | Unemployment Claims |
 | `2026.10.09 14:00` | **USD** | 🟠 Medium | Prelim UoM Consumer Sentiment |
 | `2026.10.09 14:00` | **USD** | 🟠 Medium | Prelim UoM Inflation Expectations |

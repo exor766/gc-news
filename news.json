@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026.10.05 09:27:37 UTC",
+  "updated_at": "2026.10.05 18:45:46 UTC",
   "count": 38,
   "events": [
-    {
-      "timestamp": 1790002800,
-      "time_utc": "2026.09.21 15:00",
-      "currency": "EUR",
-      "impact": "Medium",
-      "title": "ECB President Lagarde Speaks"
-    },
     {
       "timestamp": 1790074800,
       "time_utc": "2026.09.22 11:00",
@@ -246,6 +239,13 @@
       "currency": "USD",
       "impact": "High",
       "title": "FOMC Meeting Minutes"
+    },
+    {
+      "timestamp": 1791448200,
+      "time_utc": "2026.10.08 08:30",
+      "currency": "USD",
+      "impact": "Medium",
+      "title": "FOMC Member Waller Speaks"
     },
     {
       "timestamp": 1791462600,
