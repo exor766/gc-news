@@ -1,35 +1,7 @@
 {
-  "updated_at": "2026.10.07 04:27:18 UTC",
-  "count": 37,
+  "updated_at": "2026.10.07 11:16:39 UTC",
+  "count": 33,
   "events": [
-    {
-      "timestamp": 1790147700,
-      "time_utc": "2026.09.23 07:15",
-      "currency": "EUR",
-      "impact": "Medium",
-      "title": "French Flash Manufacturing PMI"
-    },
-    {
-      "timestamp": 1790147700,
-      "time_utc": "2026.09.23 07:15",
-      "currency": "EUR",
-      "impact": "Medium",
-      "title": "French Flash Services PMI"
-    },
-    {
-      "timestamp": 1790148600,
-      "time_utc": "2026.09.23 07:30",
-      "currency": "EUR",
-      "impact": "Medium",
-      "title": "German Flash Manufacturing PMI"
-    },
-    {
-      "timestamp": 1790148600,
-      "time_utc": "2026.09.23 07:30",
-      "currency": "EUR",
-      "impact": "Medium",
-      "title": "German Flash Services PMI"
-    },
     {
       "timestamp": 1790253000,
       "time_utc": "2026.09.24 12:30",

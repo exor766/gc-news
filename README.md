@@ -5,8 +5,8 @@
 
 - **JSON Feed:** `https://raw.githubusercontent.com/exor766/gc-news/main/news.json`
 - **CSV Feed (Рекомендуется для MT4):** `https://raw.githubusercontent.com/exor766/gc-news/main/news.csv`
-- **Последнее обновление:** `2026.10.07 04:27:18 UTC`
-- **Активных событий в базе:** `37`
+- **Последнее обновление:** `2026.10.07 11:16:39 UTC`
+- **Активных событий в базе:** `33`
 
 ---
 
@@ -26,10 +26,6 @@
 
 | Время (UTC) | Валюта | Важность | Событие |
 |---|---|---|---|
-| `2026.09.23 07:15` | **EUR** | 🟠 Medium | French Flash Manufacturing PMI |
-| `2026.09.23 07:15` | **EUR** | 🟠 Medium | French Flash Services PMI |
-| `2026.09.23 07:30` | **EUR** | 🟠 Medium | German Flash Manufacturing PMI |
-| `2026.09.23 07:30` | **EUR** | 🟠 Medium | German Flash Services PMI |
 | `2026.09.24 12:30` | **USD** | 🟠 Medium | Unemployment Claims |
 | `2026.09.24 14:15` | **USD** | 🟠 Medium | President Trump Speaks |
 | `2026.09.24 23:55` | **USD** | 🟠 Medium | President Trump Speaks |
