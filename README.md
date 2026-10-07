@@ -5,8 +5,8 @@
 
 - **JSON Feed:** `https://raw.githubusercontent.com/exor766/gc-news/main/news.json`
 - **CSV Feed (Рекомендуется для MT4):** `https://raw.githubusercontent.com/exor766/gc-news/main/news.csv`
-- **Последнее обновление:** `2026.10.06 23:34:24 UTC`
-- **Активных событий в базе:** `36`
+- **Последнее обновление:** `2026.10.07 04:27:18 UTC`
+- **Активных событий в базе:** `37`
 
 ---
 
@@ -57,6 +57,7 @@
 | `2026.10.02 12:30` | **USD** | 🔴 High | Unemployment Rate |
 | `2026.10.04 09:15` | **ALL** | 🟠 Medium | OPEC-JMMC Meetings |
 | `2026.10.05 14:00` | **USD** | 🟠 Medium | ISM Services PMI |
+| `2026.10.07 17:00` | **USD** | 🟠 Medium | President Trump Speaks |
 | `2026.10.07 18:00` | **USD** | 🔴 High | FOMC Meeting Minutes |
 | `2026.10.08 08:30` | **USD** | 🟠 Medium | FOMC Member Waller Speaks |
 | `2026.10.08 12:30` | **USD** | 🟠 Medium | Unemployment Claims |
