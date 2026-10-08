@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026.10.08 10:02:03 UTC",
-  "count": 33,
+  "updated_at": "2026.10.08 17:29:28 UTC",
+  "count": 31,
   "events": [
-    {
-      "timestamp": 1790253000,
-      "time_utc": "2026.09.24 12:30",
-      "currency": "USD",
-      "impact": "Medium",
-      "title": "Unemployment Claims"
-    },
-    {
-      "timestamp": 1790259300,
-      "time_utc": "2026.09.24 14:15",
-      "currency": "USD",
-      "impact": "Medium",
-      "title": "President Trump Speaks"
-    },
     {
       "timestamp": 1790294100,
       "time_utc": "2026.09.24 23:55",
