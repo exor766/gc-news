@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026.10.09 09:26:25 UTC",
-  "count": 30,
+  "updated_at": "2026.10.09 16:27:34 UTC",
+  "count": 28,
   "events": [
-    {
-      "timestamp": 1790344800,
-      "time_utc": "2026.09.25 14:00",
-      "currency": "USD",
-      "impact": "Medium",
-      "title": "Revised UoM Consumer Sentiment"
-    },
-    {
-      "timestamp": 1790344800,
-      "time_utc": "2026.09.25 14:00",
-      "currency": "USD",
-      "impact": "Medium",
-      "title": "Revised UoM Inflation Expectations"
-    },
     {
       "timestamp": 1790602200,
       "time_utc": "2026.09.28 13:30",

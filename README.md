@@ -5,8 +5,8 @@
 
 - **JSON Feed:** `https://raw.githubusercontent.com/exor766/gc-news/main/news.json`
 - **CSV Feed (Рекомендуется для MT4):** `https://raw.githubusercontent.com/exor766/gc-news/main/news.csv`
-- **Последнее обновление:** `2026.10.09 09:26:25 UTC`
-- **Активных событий в базе:** `30`
+- **Последнее обновление:** `2026.10.09 16:27:34 UTC`
+- **Активных событий в базе:** `28`
 
 ---
 
@@ -26,8 +26,6 @@
 
 | Время (UTC) | Валюта | Важность | Событие |
 |---|---|---|---|
-| `2026.09.25 14:00` | **USD** | 🟠 Medium | Revised UoM Consumer Sentiment |
-| `2026.09.25 14:00` | **USD** | 🟠 Medium | Revised UoM Inflation Expectations |
 | `2026.09.28 13:30` | **EUR** | 🟠 Medium | ECB President Lagarde Speaks |
 | `2026.09.29 11:00` | **EUR** | 🟠 Medium | ECB President Lagarde Speaks |
 | `2026.09.29 14:00` | **USD** | 🟠 Medium | CB Consumer Confidence |
