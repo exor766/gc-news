@@ -5,8 +5,8 @@
 
 - **JSON Feed:** `https://raw.githubusercontent.com/exor766/gc-news/main/news.json`
 - **CSV Feed (Рекомендуется для MT4):** `https://raw.githubusercontent.com/exor766/gc-news/main/news.csv`
-- **Последнее обновление:** `2026.10.11 01:07:58 UTC`
-- **Активных событий в базе:** `28`
+- **Последнее обновление:** `2026.10.11 07:36:30 UTC`
+- **Активных событий в базе:** `41`
 
 ---
 
@@ -54,3 +54,16 @@
 | `2026.10.08 12:30` | **USD** | 🟠 Medium | Unemployment Claims |
 | `2026.10.09 14:00` | **USD** | 🟠 Medium | Prelim UoM Consumer Sentiment |
 | `2026.10.09 14:00` | **USD** | 🟠 Medium | Prelim UoM Inflation Expectations |
+| `2026.10.14 02:10` | **EUR** | 🟠 Medium | ECB President Lagarde Speaks |
+| `2026.10.14 08:30` | **EUR** | 🟠 Medium | ECB President Lagarde Speaks |
+| `2026.10.14 12:30` | **USD** | 🔴 High | Core CPI m/m |
+| `2026.10.14 12:30` | **USD** | 🔴 High | Core CPI y/y |
+| `2026.10.14 12:30` | **USD** | 🔴 High | CPI m/m |
+| `2026.10.14 12:30` | **USD** | 🔴 High | CPI y/y |
+| `2026.10.15 12:30` | **USD** | 🔴 High | Core PPI m/m |
+| `2026.10.15 12:30` | **USD** | 🔴 High | Core Retail Sales m/m |
+| `2026.10.15 12:30` | **USD** | 🔴 High | PPI m/m |
+| `2026.10.15 12:30` | **USD** | 🔴 High | Retail Sales m/m |
+| `2026.10.15 12:30` | **USD** | 🟠 Medium | Philly Fed Manufacturing Index |
+| `2026.10.15 12:30` | **USD** | 🟠 Medium | Unemployment Claims |
+| `2026.10.16 03:30` | **USD** | 🔴 High | Fed Chairman Warsh Speaks |

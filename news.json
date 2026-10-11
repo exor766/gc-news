@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026.10.11 01:07:58 UTC",
-  "count": 28,
+  "updated_at": "2026.10.11 07:36:30 UTC",
+  "count": 41,
   "events": [
     {
       "timestamp": 1790602200,
@@ -197,6 +197,97 @@
       "currency": "USD",
       "impact": "Medium",
       "title": "Prelim UoM Inflation Expectations"
+    },
+    {
+      "timestamp": 1791943800,
+      "time_utc": "2026.10.14 02:10",
+      "currency": "EUR",
+      "impact": "Medium",
+      "title": "ECB President Lagarde Speaks"
+    },
+    {
+      "timestamp": 1791966600,
+      "time_utc": "2026.10.14 08:30",
+      "currency": "EUR",
+      "impact": "Medium",
+      "title": "ECB President Lagarde Speaks"
+    },
+    {
+      "timestamp": 1791981000,
+      "time_utc": "2026.10.14 12:30",
+      "currency": "USD",
+      "impact": "High",
+      "title": "Core CPI m/m"
+    },
+    {
+      "timestamp": 1791981000,
+      "time_utc": "2026.10.14 12:30",
+      "currency": "USD",
+      "impact": "High",
+      "title": "Core CPI y/y"
+    },
+    {
+      "timestamp": 1791981000,
+      "time_utc": "2026.10.14 12:30",
+      "currency": "USD",
+      "impact": "High",
+      "title": "CPI m/m"
+    },
+    {
+      "timestamp": 1791981000,
+      "time_utc": "2026.10.14 12:30",
+      "currency": "USD",
+      "impact": "High",
+      "title": "CPI y/y"
+    },
+    {
+      "timestamp": 1792067400,
+      "time_utc": "2026.10.15 12:30",
+      "currency": "USD",
+      "impact": "High",
+      "title": "Core PPI m/m"
+    },
+    {
+      "timestamp": 1792067400,
+      "time_utc": "2026.10.15 12:30",
+      "currency": "USD",
+      "impact": "High",
+      "title": "Core Retail Sales m/m"
+    },
+    {
+      "timestamp": 1792067400,
+      "time_utc": "2026.10.15 12:30",
+      "currency": "USD",
+      "impact": "High",
+      "title": "PPI m/m"
+    },
+    {
+      "timestamp": 1792067400,
+      "time_utc": "2026.10.15 12:30",
+      "currency": "USD",
+      "impact": "High",
+      "title": "Retail Sales m/m"
+    },
+    {
+      "timestamp": 1792067400,
+      "time_utc": "2026.10.15 12:30",
+      "currency": "USD",
+      "impact": "Medium",
+      "title": "Philly Fed Manufacturing Index"
+    },
+    {
+      "timestamp": 1792067400,
+      "time_utc": "2026.10.15 12:30",
+      "currency": "USD",
+      "impact": "Medium",
+      "title": "Unemployment Claims"
+    },
+    {
+      "timestamp": 1792121400,
+      "time_utc": "2026.10.16 03:30",
+      "currency": "USD",
+      "impact": "High",
+      "title": "Fed Chairman Warsh Speaks"
     }
   ]
 }
