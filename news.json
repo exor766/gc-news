@@ -1,28 +1,7 @@
 {
-  "updated_at": "2026.10.13 08:57:59 UTC",
-  "count": 40,
+  "updated_at": "2026.10.13 16:50:50 UTC",
+  "count": 39,
   "events": [
-    {
-      "timestamp": 1790679600,
-      "time_utc": "2026.09.29 11:00",
-      "currency": "EUR",
-      "impact": "Medium",
-      "title": "ECB President Lagarde Speaks"
-    },
-    {
-      "timestamp": 1790690400,
-      "time_utc": "2026.09.29 14:00",
-      "currency": "USD",
-      "impact": "Medium",
-      "title": "CB Consumer Confidence"
-    },
-    {
-      "timestamp": 1790690400,
-      "time_utc": "2026.09.29 14:00",
-      "currency": "USD",
-      "impact": "Medium",
-      "title": "JOLTS Job Openings"
-    },
     {
       "timestamp": 1790749740,
       "time_utc": "2026.09.30 06:29",
@@ -206,6 +185,13 @@
       "title": "ECB President Lagarde Speaks"
     },
     {
+      "timestamp": 1791972900,
+      "time_utc": "2026.10.14 10:15",
+      "currency": "EUR",
+      "impact": "Medium",
+      "title": "EU Economic Summit"
+    },
+    {
       "timestamp": 1791981000,
       "time_utc": "2026.10.14 12:30",
       "currency": "USD",
@@ -232,6 +218,13 @@
       "currency": "USD",
       "impact": "High",
       "title": "CPI y/y"
+    },
+    {
+      "timestamp": 1792059300,
+      "time_utc": "2026.10.15 10:15",
+      "currency": "EUR",
+      "impact": "Medium",
+      "title": "EU Economic Summit"
     },
     {
       "timestamp": 1792067400,
