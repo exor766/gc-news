@@ -5,8 +5,8 @@
 
 - **JSON Feed:** `https://raw.githubusercontent.com/exor766/gc-news/main/news.json`
 - **CSV Feed (Рекомендуется для MT4):** `https://raw.githubusercontent.com/exor766/gc-news/main/news.csv`
-- **Последнее обновление:** `2026.10.14 05:50:07 UTC`
-- **Активных событий в базе:** `39`
+- **Последнее обновление:** `2026.10.14 11:14:20 UTC`
+- **Активных событий в базе:** `38`
 
 ---
 
@@ -26,7 +26,6 @@
 
 | Время (UTC) | Валюта | Важность | Событие |
 |---|---|---|---|
-| `2026.09.30 06:29` | **EUR** | 🟠 Medium | German Prelim CPI m/m |
 | `2026.09.30 12:15` | **USD** | 🟠 Medium | ADP Non-Farm Employment Change |
 | `2026.09.30 12:30` | **USD** | 🔴 High | Core PCE Price Index m/m |
 | `2026.09.30 12:30` | **USD** | 🔴 High | Final GDP q/q |
