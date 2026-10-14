@@ -1,35 +1,7 @@
 {
-  "updated_at": "2026.10.14 11:14:20 UTC",
-  "count": 38,
+  "updated_at": "2026.10.14 15:54:09 UTC",
+  "count": 34,
   "events": [
-    {
-      "timestamp": 1790770500,
-      "time_utc": "2026.09.30 12:15",
-      "currency": "USD",
-      "impact": "Medium",
-      "title": "ADP Non-Farm Employment Change"
-    },
-    {
-      "timestamp": 1790771400,
-      "time_utc": "2026.09.30 12:30",
-      "currency": "USD",
-      "impact": "High",
-      "title": "Core PCE Price Index m/m"
-    },
-    {
-      "timestamp": 1790771400,
-      "time_utc": "2026.09.30 12:30",
-      "currency": "USD",
-      "impact": "High",
-      "title": "Final GDP q/q"
-    },
-    {
-      "timestamp": 1790771400,
-      "time_utc": "2026.09.30 12:30",
-      "currency": "USD",
-      "impact": "Medium",
-      "title": "Final GDP Price Index q/q"
-    },
     {
       "timestamp": 1790796600,
       "time_utc": "2026.09.30 19:30",
