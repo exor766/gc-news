@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026.10.14 19:58:34 UTC",
-  "count": 33,
+  "updated_at": "2026.10.14 23:06:59 UTC",
+  "count": 32,
   "events": [
-    {
-      "timestamp": 1790805600,
-      "time_utc": "2026.09.30 22:00",
-      "currency": "USD",
-      "impact": "Medium",
-      "title": "FOMC Member Kashkari Speaks"
-    },
     {
       "timestamp": 1790857800,
       "time_utc": "2026.10.01 12:30",

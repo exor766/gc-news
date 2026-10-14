@@ -5,8 +5,8 @@
 
 - **JSON Feed:** `https://raw.githubusercontent.com/exor766/gc-news/main/news.json`
 - **CSV Feed (Рекомендуется для MT4):** `https://raw.githubusercontent.com/exor766/gc-news/main/news.csv`
-- **Последнее обновление:** `2026.10.14 19:58:34 UTC`
-- **Активных событий в базе:** `33`
+- **Последнее обновление:** `2026.10.14 23:06:59 UTC`
+- **Активных событий в базе:** `32`
 
 ---
 
@@ -26,7 +26,6 @@
 
 | Время (UTC) | Валюта | Важность | Событие |
 |---|---|---|---|
-| `2026.09.30 22:00` | **USD** | 🟠 Medium | FOMC Member Kashkari Speaks |
 | `2026.10.01 12:30` | **USD** | 🟠 Medium | Unemployment Claims |
 | `2026.10.01 13:30` | **EUR** | 🟠 Medium | ECB President Lagarde Speaks |
 | `2026.10.01 14:00` | **USD** | 🟠 Medium | FOMC Member Waller Speaks |
