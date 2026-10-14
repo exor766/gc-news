@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026.10.14 15:54:09 UTC",
-  "count": 34,
+  "updated_at": "2026.10.14 19:58:34 UTC",
+  "count": 33,
   "events": [
-    {
-      "timestamp": 1790796600,
-      "time_utc": "2026.09.30 19:30",
-      "currency": "USD",
-      "impact": "Medium",
-      "title": "President Trump Speaks"
-    },
     {
       "timestamp": 1790805600,
       "time_utc": "2026.09.30 22:00",
