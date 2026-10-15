@@ -1,28 +1,7 @@
 {
-  "updated_at": "2026.10.15 12:35:24 UTC",
-  "count": 31,
+  "updated_at": "2026.10.15 17:36:42 UTC",
+  "count": 28,
   "events": [
-    {
-      "timestamp": 1790861400,
-      "time_utc": "2026.10.01 13:30",
-      "currency": "EUR",
-      "impact": "Medium",
-      "title": "ECB President Lagarde Speaks"
-    },
-    {
-      "timestamp": 1790863200,
-      "time_utc": "2026.10.01 14:00",
-      "currency": "USD",
-      "impact": "Medium",
-      "title": "FOMC Member Waller Speaks"
-    },
-    {
-      "timestamp": 1790863200,
-      "time_utc": "2026.10.01 14:00",
-      "currency": "USD",
-      "impact": "Medium",
-      "title": "ISM Manufacturing PMI"
-    },
     {
       "timestamp": 1790931600,
       "time_utc": "2026.10.02 09:00",
