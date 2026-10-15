@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026.10.15 06:58:44 UTC",
-  "count": 32,
+  "updated_at": "2026.10.15 12:35:24 UTC",
+  "count": 31,
   "events": [
-    {
-      "timestamp": 1790857800,
-      "time_utc": "2026.10.01 12:30",
-      "currency": "USD",
-      "impact": "Medium",
-      "title": "Unemployment Claims"
-    },
     {
       "timestamp": 1790861400,
       "time_utc": "2026.10.01 13:30",
