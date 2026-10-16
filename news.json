@@ -1,42 +1,7 @@
 {
-  "updated_at": "2026.10.16 08:24:07 UTC",
-  "count": 28,
+  "updated_at": "2026.10.16 13:25:19 UTC",
+  "count": 23,
   "events": [
-    {
-      "timestamp": 1790931600,
-      "time_utc": "2026.10.02 09:00",
-      "currency": "EUR",
-      "impact": "Medium",
-      "title": "Core CPI Flash Estimate y/y"
-    },
-    {
-      "timestamp": 1790931600,
-      "time_utc": "2026.10.02 09:00",
-      "currency": "EUR",
-      "impact": "Medium",
-      "title": "CPI Flash Estimate y/y"
-    },
-    {
-      "timestamp": 1790944200,
-      "time_utc": "2026.10.02 12:30",
-      "currency": "USD",
-      "impact": "High",
-      "title": "Average Hourly Earnings m/m"
-    },
-    {
-      "timestamp": 1790944200,
-      "time_utc": "2026.10.02 12:30",
-      "currency": "USD",
-      "impact": "High",
-      "title": "Non-Farm Employment Change"
-    },
-    {
-      "timestamp": 1790944200,
-      "time_utc": "2026.10.02 12:30",
-      "currency": "USD",
-      "impact": "High",
-      "title": "Unemployment Rate"
-    },
     {
       "timestamp": 1791105300,
       "time_utc": "2026.10.04 09:15",
