@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026.10.18 08:14:11 UTC",
-  "count": 32,
+  "updated_at": "2026.10.18 12:42:52 UTC",
+  "count": 31,
   "events": [
-    {
-      "timestamp": 1791105300,
-      "time_utc": "2026.10.04 09:15",
-      "currency": "ALL",
-      "impact": "Medium",
-      "title": "OPEC-JMMC Meetings"
-    },
     {
       "timestamp": 1791208800,
       "time_utc": "2026.10.05 14:00",
