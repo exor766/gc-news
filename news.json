@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026.10.18 03:08:19 UTC",
-  "count": 23,
+  "updated_at": "2026.10.18 08:14:11 UTC",
+  "count": 32,
   "events": [
     {
       "timestamp": 1791105300,
@@ -162,6 +162,69 @@
       "currency": "USD",
       "impact": "High",
       "title": "Fed Chairman Warsh Speaks"
+    },
+    {
+      "timestamp": 1792672200,
+      "time_utc": "2026.10.22 12:30",
+      "currency": "USD",
+      "impact": "Medium",
+      "title": "Unemployment Claims"
+    },
+    {
+      "timestamp": 1792739700,
+      "time_utc": "2026.10.23 07:15",
+      "currency": "EUR",
+      "impact": "Medium",
+      "title": "French Flash Manufacturing PMI"
+    },
+    {
+      "timestamp": 1792739700,
+      "time_utc": "2026.10.23 07:15",
+      "currency": "EUR",
+      "impact": "Medium",
+      "title": "French Flash Services PMI"
+    },
+    {
+      "timestamp": 1792740600,
+      "time_utc": "2026.10.23 07:30",
+      "currency": "EUR",
+      "impact": "Medium",
+      "title": "German Flash Manufacturing PMI"
+    },
+    {
+      "timestamp": 1792740600,
+      "time_utc": "2026.10.23 07:30",
+      "currency": "EUR",
+      "impact": "Medium",
+      "title": "German Flash Services PMI"
+    },
+    {
+      "timestamp": 1792763100,
+      "time_utc": "2026.10.23 13:45",
+      "currency": "USD",
+      "impact": "Medium",
+      "title": "Flash Manufacturing PMI"
+    },
+    {
+      "timestamp": 1792763100,
+      "time_utc": "2026.10.23 13:45",
+      "currency": "USD",
+      "impact": "Medium",
+      "title": "Flash Services PMI"
+    },
+    {
+      "timestamp": 1792764000,
+      "time_utc": "2026.10.23 14:00",
+      "currency": "USD",
+      "impact": "Medium",
+      "title": "Revised UoM Consumer Sentiment"
+    },
+    {
+      "timestamp": 1792764000,
+      "time_utc": "2026.10.23 14:00",
+      "currency": "USD",
+      "impact": "Medium",
+      "title": "Revised UoM Inflation Expectations"
     }
   ]
 }

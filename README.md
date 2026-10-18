@@ -5,8 +5,8 @@
 
 - **JSON Feed:** `https://raw.githubusercontent.com/exor766/gc-news/main/news.json`
 - **CSV Feed (Рекомендуется для MT4):** `https://raw.githubusercontent.com/exor766/gc-news/main/news.csv`
-- **Последнее обновление:** `2026.10.18 03:08:19 UTC`
-- **Активных событий в базе:** `23`
+- **Последнее обновление:** `2026.10.18 08:14:11 UTC`
+- **Активных событий в базе:** `32`
 
 ---
 
@@ -49,3 +49,12 @@
 | `2026.10.15 12:30` | **USD** | 🟠 Medium | Philly Fed Manufacturing Index |
 | `2026.10.15 12:30` | **USD** | 🟠 Medium | Unemployment Claims |
 | `2026.10.16 03:30` | **USD** | 🔴 High | Fed Chairman Warsh Speaks |
+| `2026.10.22 12:30` | **USD** | 🟠 Medium | Unemployment Claims |
+| `2026.10.23 07:15` | **EUR** | 🟠 Medium | French Flash Manufacturing PMI |
+| `2026.10.23 07:15` | **EUR** | 🟠 Medium | French Flash Services PMI |
+| `2026.10.23 07:30` | **EUR** | 🟠 Medium | German Flash Manufacturing PMI |
+| `2026.10.23 07:30` | **EUR** | 🟠 Medium | German Flash Services PMI |
+| `2026.10.23 13:45` | **USD** | 🟠 Medium | Flash Manufacturing PMI |
+| `2026.10.23 13:45` | **USD** | 🟠 Medium | Flash Services PMI |
+| `2026.10.23 14:00` | **USD** | 🟠 Medium | Revised UoM Consumer Sentiment |
+| `2026.10.23 14:00` | **USD** | 🟠 Medium | Revised UoM Inflation Expectations |
