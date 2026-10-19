@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026.10.19 07:20:14 UTC",
-  "count": 31,
+  "updated_at": "2026.10.19 14:51:59 UTC",
+  "count": 30,
   "events": [
-    {
-      "timestamp": 1791208800,
-      "time_utc": "2026.10.05 14:00",
-      "currency": "USD",
-      "impact": "Medium",
-      "title": "ISM Services PMI"
-    },
     {
       "timestamp": 1791392400,
       "time_utc": "2026.10.07 17:00",
