@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026.10.21 16:02:35 UTC",
-  "count": 30,
+  "updated_at": "2026.10.21 20:17:52 UTC",
+  "count": 28,
   "events": [
-    {
-      "timestamp": 1791392400,
-      "time_utc": "2026.10.07 17:00",
-      "currency": "USD",
-      "impact": "Medium",
-      "title": "President Trump Speaks"
-    },
-    {
-      "timestamp": 1791396000,
-      "time_utc": "2026.10.07 18:00",
-      "currency": "USD",
-      "impact": "High",
-      "title": "FOMC Meeting Minutes"
-    },
     {
       "timestamp": 1791448200,
       "time_utc": "2026.10.08 08:30",

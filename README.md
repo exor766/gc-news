@@ -5,8 +5,8 @@
 
 - **JSON Feed:** `https://raw.githubusercontent.com/exor766/gc-news/main/news.json`
 - **CSV Feed (Рекомендуется для MT4):** `https://raw.githubusercontent.com/exor766/gc-news/main/news.csv`
-- **Последнее обновление:** `2026.10.21 16:02:35 UTC`
-- **Активных событий в базе:** `30`
+- **Последнее обновление:** `2026.10.21 20:17:52 UTC`
+- **Активных событий в базе:** `28`
 
 ---
 
@@ -26,8 +26,6 @@
 
 | Время (UTC) | Валюта | Важность | Событие |
 |---|---|---|---|
-| `2026.10.07 17:00` | **USD** | 🟠 Medium | President Trump Speaks |
-| `2026.10.07 18:00` | **USD** | 🔴 High | FOMC Meeting Minutes |
 | `2026.10.08 08:30` | **USD** | 🟠 Medium | FOMC Member Waller Speaks |
 | `2026.10.08 12:30` | **USD** | 🟠 Medium | Unemployment Claims |
 | `2026.10.09 14:00` | **USD** | 🟠 Medium | Prelim UoM Consumer Sentiment |
