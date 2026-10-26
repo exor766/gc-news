@@ -5,8 +5,8 @@
 
 - **JSON Feed:** `https://raw.githubusercontent.com/exor766/gc-news/main/news.json`
 - **CSV Feed (Рекомендуется для MT4):** `https://raw.githubusercontent.com/exor766/gc-news/main/news.csv`
-- **Последнее обновление:** `2026.10.26 20:05:05 UTC`
-- **Активных событий в базе:** `38`
+- **Последнее обновление:** `2026.10.26 23:58:42 UTC`
+- **Активных событий в базе:** `39`
 
 ---
 
@@ -62,5 +62,6 @@
 | `2026.10.29 13:15` | **EUR** | 🔴 High | Monetary Policy Statement |
 | `2026.10.29 13:45` | **EUR** | 🔴 High | ECB Press Conference |
 | `2026.10.30 06:29` | **EUR** | 🟠 Medium | German Prelim CPI m/m |
+| `2026.10.30 07:29` | **EUR** | 🟠 Medium | German Prelim CPI m/m |
 | `2026.10.30 09:00` | **EUR** | 🟠 Medium | German Prelim GDP q/q |
 | `2026.10.30 12:30` | **USD** | 🟠 Medium | Employment Cost Index q/q |

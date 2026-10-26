@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026.10.26 20:05:05 UTC",
-  "count": 38,
+  "updated_at": "2026.10.26 23:58:42 UTC",
+  "count": 39,
   "events": [
     {
       "timestamp": 1791943800,
@@ -250,6 +250,13 @@
     {
       "timestamp": 1793341740,
       "time_utc": "2026.10.30 06:29",
+      "currency": "EUR",
+      "impact": "Medium",
+      "title": "German Prelim CPI m/m"
+    },
+    {
+      "timestamp": 1793345340,
+      "time_utc": "2026.10.30 07:29",
       "currency": "EUR",
       "impact": "Medium",
       "title": "German Prelim CPI m/m"
