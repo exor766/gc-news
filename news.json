@@ -1,49 +1,7 @@
 {
-  "updated_at": "2026.10.28 06:01:30 UTC",
-  "count": 38,
+  "updated_at": "2026.10.28 13:21:05 UTC",
+  "count": 32,
   "events": [
-    {
-      "timestamp": 1791966600,
-      "time_utc": "2026.10.14 08:30",
-      "currency": "EUR",
-      "impact": "Medium",
-      "title": "ECB President Lagarde Speaks"
-    },
-    {
-      "timestamp": 1791972900,
-      "time_utc": "2026.10.14 10:15",
-      "currency": "EUR",
-      "impact": "Medium",
-      "title": "EU Economic Summit"
-    },
-    {
-      "timestamp": 1791981000,
-      "time_utc": "2026.10.14 12:30",
-      "currency": "USD",
-      "impact": "High",
-      "title": "Core CPI m/m"
-    },
-    {
-      "timestamp": 1791981000,
-      "time_utc": "2026.10.14 12:30",
-      "currency": "USD",
-      "impact": "High",
-      "title": "Core CPI y/y"
-    },
-    {
-      "timestamp": 1791981000,
-      "time_utc": "2026.10.14 12:30",
-      "currency": "USD",
-      "impact": "High",
-      "title": "CPI m/m"
-    },
-    {
-      "timestamp": 1791981000,
-      "time_utc": "2026.10.14 12:30",
-      "currency": "USD",
-      "impact": "High",
-      "title": "CPI y/y"
-    },
     {
       "timestamp": 1792059300,
       "time_utc": "2026.10.15 10:15",

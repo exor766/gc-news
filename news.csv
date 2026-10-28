@@ -1,10 +1,4 @@
 # timestamp;time_utc;currency;impact;title
-1791966600;2026.10.14 08:30;EUR;Medium;ECB President Lagarde Speaks
-1791972900;2026.10.14 10:15;EUR;Medium;EU Economic Summit
-1791981000;2026.10.14 12:30;USD;High;Core CPI m/m
-1791981000;2026.10.14 12:30;USD;High;Core CPI y/y
-1791981000;2026.10.14 12:30;USD;High;CPI m/m
-1791981000;2026.10.14 12:30;USD;High;CPI y/y
 1792059300;2026.10.15 10:15;EUR;Medium;EU Economic Summit
 1792067400;2026.10.15 12:30;USD;High;Core PPI m/m
 1792067400;2026.10.15 12:30;USD;High;Core Retail Sales m/m
