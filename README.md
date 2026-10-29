@@ -5,8 +5,8 @@
 
 - **JSON Feed:** `https://raw.githubusercontent.com/exor766/gc-news/main/news.json`
 - **CSV Feed (Рекомендуется для MT4):** `https://raw.githubusercontent.com/exor766/gc-news/main/news.csv`
-- **Последнее обновление:** `2026.10.29 09:22:37 UTC`
-- **Активных событий в базе:** `32`
+- **Последнее обновление:** `2026.10.29 16:19:59 UTC`
+- **Активных событий в базе:** `25`
 
 ---
 
@@ -26,13 +26,6 @@
 
 | Время (UTC) | Валюта | Важность | Событие |
 |---|---|---|---|
-| `2026.10.15 10:15` | **EUR** | 🟠 Medium | EU Economic Summit |
-| `2026.10.15 12:30` | **USD** | 🔴 High | Core PPI m/m |
-| `2026.10.15 12:30` | **USD** | 🔴 High | Core Retail Sales m/m |
-| `2026.10.15 12:30` | **USD** | 🔴 High | PPI m/m |
-| `2026.10.15 12:30` | **USD** | 🔴 High | Retail Sales m/m |
-| `2026.10.15 12:30` | **USD** | 🟠 Medium | Philly Fed Manufacturing Index |
-| `2026.10.15 12:30` | **USD** | 🟠 Medium | Unemployment Claims |
 | `2026.10.16 03:30` | **USD** | 🔴 High | Fed Chairman Warsh Speaks |
 | `2026.10.22 12:30` | **USD** | 🟠 Medium | Unemployment Claims |
 | `2026.10.23 07:15` | **EUR** | 🟠 Medium | French Flash Manufacturing PMI |

@@ -1,11 +1,4 @@
 # timestamp;time_utc;currency;impact;title
-1792059300;2026.10.15 10:15;EUR;Medium;EU Economic Summit
-1792067400;2026.10.15 12:30;USD;High;Core PPI m/m
-1792067400;2026.10.15 12:30;USD;High;Core Retail Sales m/m
-1792067400;2026.10.15 12:30;USD;High;PPI m/m
-1792067400;2026.10.15 12:30;USD;High;Retail Sales m/m
-1792067400;2026.10.15 12:30;USD;Medium;Philly Fed Manufacturing Index
-1792067400;2026.10.15 12:30;USD;Medium;Unemployment Claims
 1792121400;2026.10.16 03:30;USD;High;Fed Chairman Warsh Speaks
 1792672200;2026.10.22 12:30;USD;Medium;Unemployment Claims
 1792739700;2026.10.23 07:15;EUR;Medium;French Flash Manufacturing PMI

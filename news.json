@@ -1,56 +1,7 @@
 {
-  "updated_at": "2026.10.29 09:22:37 UTC",
-  "count": 32,
+  "updated_at": "2026.10.29 16:19:59 UTC",
+  "count": 25,
   "events": [
-    {
-      "timestamp": 1792059300,
-      "time_utc": "2026.10.15 10:15",
-      "currency": "EUR",
-      "impact": "Medium",
-      "title": "EU Economic Summit"
-    },
-    {
-      "timestamp": 1792067400,
-      "time_utc": "2026.10.15 12:30",
-      "currency": "USD",
-      "impact": "High",
-      "title": "Core PPI m/m"
-    },
-    {
-      "timestamp": 1792067400,
-      "time_utc": "2026.10.15 12:30",
-      "currency": "USD",
-      "impact": "High",
-      "title": "Core Retail Sales m/m"
-    },
-    {
-      "timestamp": 1792067400,
-      "time_utc": "2026.10.15 12:30",
-      "currency": "USD",
-      "impact": "High",
-      "title": "PPI m/m"
-    },
-    {
-      "timestamp": 1792067400,
-      "time_utc": "2026.10.15 12:30",
-      "currency": "USD",
-      "impact": "High",
-      "title": "Retail Sales m/m"
-    },
-    {
-      "timestamp": 1792067400,
-      "time_utc": "2026.10.15 12:30",
-      "currency": "USD",
-      "impact": "Medium",
-      "title": "Philly Fed Manufacturing Index"
-    },
-    {
-      "timestamp": 1792067400,
-      "time_utc": "2026.10.15 12:30",
-      "currency": "USD",
-      "impact": "Medium",
-      "title": "Unemployment Claims"
-    },
     {
       "timestamp": 1792121400,
       "time_utc": "2026.10.16 03:30",
