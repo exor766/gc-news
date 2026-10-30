@@ -5,8 +5,8 @@
 
 - **JSON Feed:** `https://raw.githubusercontent.com/exor766/gc-news/main/news.json`
 - **CSV Feed (Рекомендуется для MT4):** `https://raw.githubusercontent.com/exor766/gc-news/main/news.csv`
-- **Последнее обновление:** `2026.10.30 01:14:47 UTC`
-- **Активных событий в базе:** `25`
+- **Последнее обновление:** `2026.10.30 07:31:33 UTC`
+- **Активных событий в базе:** `24`
 
 ---
 
@@ -26,7 +26,6 @@
 
 | Время (UTC) | Валюта | Важность | Событие |
 |---|---|---|---|
-| `2026.10.16 03:30` | **USD** | 🔴 High | Fed Chairman Warsh Speaks |
 | `2026.10.22 12:30` | **USD** | 🟠 Medium | Unemployment Claims |
 | `2026.10.23 07:15` | **EUR** | 🟠 Medium | French Flash Manufacturing PMI |
 | `2026.10.23 07:15` | **EUR** | 🟠 Medium | French Flash Services PMI |

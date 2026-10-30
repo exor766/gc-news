@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026.10.30 01:14:47 UTC",
-  "count": 25,
+  "updated_at": "2026.10.30 07:31:33 UTC",
+  "count": 24,
   "events": [
-    {
-      "timestamp": 1792121400,
-      "time_utc": "2026.10.16 03:30",
-      "currency": "USD",
-      "impact": "High",
-      "title": "Fed Chairman Warsh Speaks"
-    },
     {
       "timestamp": 1792672200,
       "time_utc": "2026.10.22 12:30",
