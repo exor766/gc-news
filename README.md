@@ -5,8 +5,8 @@
 
 - **JSON Feed:** `https://raw.githubusercontent.com/exor766/gc-news/main/news.json`
 - **CSV Feed (Рекомендуется для MT4):** `https://raw.githubusercontent.com/exor766/gc-news/main/news.csv`
-- **Последнее обновление:** `2026.11.01 01:51:52 UTC`
-- **Активных событий в базе:** `24`
+- **Последнее обновление:** `2026.11.01 08:43:52 UTC`
+- **Активных событий в базе:** `37`
 
 ---
 
@@ -50,3 +50,16 @@
 | `2026.10.30 07:29` | **EUR** | 🟠 Medium | German Prelim CPI m/m |
 | `2026.10.30 09:00` | **EUR** | 🟠 Medium | German Prelim GDP q/q |
 | `2026.10.30 12:30` | **USD** | 🟠 Medium | Employment Cost Index q/q |
+| `2026.11.02 15:00` | **USD** | 🟠 Medium | ISM Manufacturing PMI |
+| `2026.11.03 15:00` | **USD** | 🟠 Medium | JOLTS Job Openings |
+| `2026.11.03 15:16` | **USD** | 🔴 High | Congressional Elections |
+| `2026.11.04 10:00` | **EUR** | 🟠 Medium | Core CPI Flash Estimate y/y |
+| `2026.11.04 10:00` | **EUR** | 🟠 Medium | CPI Flash Estimate y/y |
+| `2026.11.04 15:00` | **USD** | 🟠 Medium | ISM Services PMI |
+| `2026.11.05 13:30` | **USD** | 🟠 Medium | Unemployment Claims |
+| `2026.11.05 18:00` | **EUR** | 🟠 Medium | ECB President Lagarde Speaks |
+| `2026.11.06 13:30` | **USD** | 🔴 High | Average Hourly Earnings m/m |
+| `2026.11.06 13:30` | **USD** | 🔴 High | Non-Farm Employment Change |
+| `2026.11.06 13:30` | **USD** | 🔴 High | Unemployment Rate |
+| `2026.11.06 15:00` | **USD** | 🟠 Medium | Prelim UoM Consumer Sentiment |
+| `2026.11.06 15:00` | **USD** | 🟠 Medium | Prelim UoM Inflation Expectations |
