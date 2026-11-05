@@ -5,8 +5,8 @@
 
 - **JSON Feed:** `https://raw.githubusercontent.com/exor766/gc-news/main/news.json`
 - **CSV Feed (Рекомендуется для MT4):** `https://raw.githubusercontent.com/exor766/gc-news/main/news.csv`
-- **Последнее обновление:** `2026.11.05 08:58:27 UTC`
-- **Активных событий в базе:** `37`
+- **Последнее обновление:** `2026.11.05 17:17:10 UTC`
+- **Активных событий в базе:** `36`
 
 ---
 
@@ -26,7 +26,6 @@
 
 | Время (UTC) | Валюта | Важность | Событие |
 |---|---|---|---|
-| `2026.10.22 12:30` | **USD** | 🟠 Medium | Unemployment Claims |
 | `2026.10.23 07:15` | **EUR** | 🟠 Medium | French Flash Manufacturing PMI |
 | `2026.10.23 07:15` | **EUR** | 🟠 Medium | French Flash Services PMI |
 | `2026.10.23 07:30` | **EUR** | 🟠 Medium | German Flash Manufacturing PMI |
