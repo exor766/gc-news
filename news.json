@@ -1,35 +1,7 @@
 {
-  "updated_at": "2026.11.06 11:19:23 UTC",
-  "count": 32,
+  "updated_at": "2026.11.06 18:13:32 UTC",
+  "count": 28,
   "events": [
-    {
-      "timestamp": 1792763100,
-      "time_utc": "2026.10.23 13:45",
-      "currency": "USD",
-      "impact": "Medium",
-      "title": "Flash Manufacturing PMI"
-    },
-    {
-      "timestamp": 1792763100,
-      "time_utc": "2026.10.23 13:45",
-      "currency": "USD",
-      "impact": "Medium",
-      "title": "Flash Services PMI"
-    },
-    {
-      "timestamp": 1792764000,
-      "time_utc": "2026.10.23 14:00",
-      "currency": "USD",
-      "impact": "Medium",
-      "title": "Revised UoM Consumer Sentiment"
-    },
-    {
-      "timestamp": 1792764000,
-      "time_utc": "2026.10.23 14:00",
-      "currency": "USD",
-      "impact": "Medium",
-      "title": "Revised UoM Inflation Expectations"
-    },
     {
       "timestamp": 1793109600,
       "time_utc": "2026.10.27 14:00",

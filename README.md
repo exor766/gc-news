@@ -5,8 +5,8 @@
 
 - **JSON Feed:** `https://raw.githubusercontent.com/exor766/gc-news/main/news.json`
 - **CSV Feed (Рекомендуется для MT4):** `https://raw.githubusercontent.com/exor766/gc-news/main/news.csv`
-- **Последнее обновление:** `2026.11.06 11:19:23 UTC`
-- **Активных событий в базе:** `32`
+- **Последнее обновление:** `2026.11.06 18:13:32 UTC`
+- **Активных событий в базе:** `28`
 
 ---
 
@@ -26,10 +26,6 @@
 
 | Время (UTC) | Валюта | Важность | Событие |
 |---|---|---|---|
-| `2026.10.23 13:45` | **USD** | 🟠 Medium | Flash Manufacturing PMI |
-| `2026.10.23 13:45` | **USD** | 🟠 Medium | Flash Services PMI |
-| `2026.10.23 14:00` | **USD** | 🟠 Medium | Revised UoM Consumer Sentiment |
-| `2026.10.23 14:00` | **USD** | 🟠 Medium | Revised UoM Inflation Expectations |
 | `2026.10.27 14:00` | **USD** | 🟠 Medium | CB Consumer Confidence |
 | `2026.10.28 18:00` | **USD** | 🔴 High | Federal Funds Rate |
 | `2026.10.28 18:00` | **USD** | 🔴 High | FOMC Statement |
