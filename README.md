@@ -5,8 +5,8 @@
 
 - **JSON Feed:** `https://raw.githubusercontent.com/exor766/gc-news/main/news.json`
 - **CSV Feed (Рекомендуется для MT4):** `https://raw.githubusercontent.com/exor766/gc-news/main/news.csv`
-- **Последнее обновление:** `2026.11.08 00:12:41 UTC`
-- **Активных событий в базе:** `28`
+- **Последнее обновление:** `2026.11.08 06:29:56 UTC`
+- **Активных событий в базе:** `35`
 
 ---
 
@@ -54,3 +54,10 @@
 | `2026.11.06 13:30` | **USD** | 🔴 High | Unemployment Rate |
 | `2026.11.06 15:00` | **USD** | 🟠 Medium | Prelim UoM Consumer Sentiment |
 | `2026.11.06 15:00` | **USD** | 🟠 Medium | Prelim UoM Inflation Expectations |
+| `2026.11.10 09:00` | **USD** | 🟠 Medium | FOMC Member Waller Speaks |
+| `2026.11.10 13:30` | **USD** | 🔴 High | Core CPI m/m |
+| `2026.11.10 13:30` | **USD** | 🔴 High | CPI m/m |
+| `2026.11.12 13:30` | **USD** | 🟠 Medium | Unemployment Claims |
+| `2026.11.12 19:30` | **EUR** | 🟠 Medium | ECB President Lagarde Speaks |
+| `2026.11.13 13:30` | **USD** | 🔴 High | Core PPI m/m |
+| `2026.11.13 13:30` | **USD** | 🔴 High | PPI m/m |

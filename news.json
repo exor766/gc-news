@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026.11.08 00:12:41 UTC",
-  "count": 28,
+  "updated_at": "2026.11.08 06:29:56 UTC",
+  "count": 35,
   "events": [
     {
       "timestamp": 1793109600,
@@ -197,6 +197,55 @@
       "currency": "USD",
       "impact": "Medium",
       "title": "Prelim UoM Inflation Expectations"
+    },
+    {
+      "timestamp": 1794301200,
+      "time_utc": "2026.11.10 09:00",
+      "currency": "USD",
+      "impact": "Medium",
+      "title": "FOMC Member Waller Speaks"
+    },
+    {
+      "timestamp": 1794317400,
+      "time_utc": "2026.11.10 13:30",
+      "currency": "USD",
+      "impact": "High",
+      "title": "Core CPI m/m"
+    },
+    {
+      "timestamp": 1794317400,
+      "time_utc": "2026.11.10 13:30",
+      "currency": "USD",
+      "impact": "High",
+      "title": "CPI m/m"
+    },
+    {
+      "timestamp": 1794490200,
+      "time_utc": "2026.11.12 13:30",
+      "currency": "USD",
+      "impact": "Medium",
+      "title": "Unemployment Claims"
+    },
+    {
+      "timestamp": 1794511800,
+      "time_utc": "2026.11.12 19:30",
+      "currency": "EUR",
+      "impact": "Medium",
+      "title": "ECB President Lagarde Speaks"
+    },
+    {
+      "timestamp": 1794576600,
+      "time_utc": "2026.11.13 13:30",
+      "currency": "USD",
+      "impact": "High",
+      "title": "Core PPI m/m"
+    },
+    {
+      "timestamp": 1794576600,
+      "time_utc": "2026.11.13 13:30",
+      "currency": "USD",
+      "impact": "High",
+      "title": "PPI m/m"
     }
   ]
 }
