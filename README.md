@@ -5,8 +5,8 @@
 
 - **JSON Feed:** `https://raw.githubusercontent.com/exor766/gc-news/main/news.json`
 - **CSV Feed (Рекомендуется для MT4):** `https://raw.githubusercontent.com/exor766/gc-news/main/news.csv`
-- **Последнее обновление:** `2026.11.09 10:04:21 UTC`
-- **Активных событий в базе:** `35`
+- **Последнее обновление:** `2026.11.09 20:56:22 UTC`
+- **Активных событий в базе:** `36`
 
 ---
 
@@ -57,6 +57,7 @@
 | `2026.11.10 09:00` | **USD** | 🟠 Medium | FOMC Member Waller Speaks |
 | `2026.11.10 13:30` | **USD** | 🔴 High | Core CPI m/m |
 | `2026.11.10 13:30` | **USD** | 🔴 High | CPI m/m |
+| `2026.11.11 09:45` | **EUR** | 🟠 Medium | ECB President Lagarde Speaks |
 | `2026.11.12 13:30` | **USD** | 🟠 Medium | Unemployment Claims |
 | `2026.11.12 19:30` | **EUR** | 🟠 Medium | ECB President Lagarde Speaks |
 | `2026.11.13 13:30` | **USD** | 🔴 High | Core PPI m/m |

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026.11.09 10:04:21 UTC",
-  "count": 35,
+  "updated_at": "2026.11.09 20:56:22 UTC",
+  "count": 36,
   "events": [
     {
       "timestamp": 1793109600,
@@ -218,6 +218,13 @@
       "currency": "USD",
       "impact": "High",
       "title": "CPI m/m"
+    },
+    {
+      "timestamp": 1794390300,
+      "time_utc": "2026.11.11 09:45",
+      "currency": "EUR",
+      "impact": "Medium",
+      "title": "ECB President Lagarde Speaks"
     },
     {
       "timestamp": 1794490200,
