@@ -5,8 +5,8 @@
 
 - **JSON Feed:** `https://raw.githubusercontent.com/exor766/gc-news/main/news.json`
 - **CSV Feed (Рекомендуется для MT4):** `https://raw.githubusercontent.com/exor766/gc-news/main/news.csv`
-- **Последнее обновление:** `2026.11.10 11:31:16 UTC`
-- **Активных событий в базе:** `36`
+- **Последнее обновление:** `2026.11.10 19:20:39 UTC`
+- **Активных событий в базе:** `35`
 
 ---
 
@@ -26,7 +26,6 @@
 
 | Время (UTC) | Валюта | Важность | Событие |
 |---|---|---|---|
-| `2026.10.27 14:00` | **USD** | 🟠 Medium | CB Consumer Confidence |
 | `2026.10.28 18:00` | **USD** | 🔴 High | Federal Funds Rate |
 | `2026.10.28 18:00` | **USD** | 🔴 High | FOMC Statement |
 | `2026.10.28 18:30` | **USD** | 🔴 High | FOMC Press Conference |

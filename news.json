@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026.11.10 11:31:16 UTC",
-  "count": 36,
+  "updated_at": "2026.11.10 19:20:39 UTC",
+  "count": 35,
   "events": [
-    {
-      "timestamp": 1793109600,
-      "time_utc": "2026.10.27 14:00",
-      "currency": "USD",
-      "impact": "Medium",
-      "title": "CB Consumer Confidence"
-    },
     {
       "timestamp": 1793210400,
       "time_utc": "2026.10.28 18:00",
