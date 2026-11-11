@@ -1,28 +1,7 @@
 {
-  "updated_at": "2026.11.11 14:55:53 UTC",
-  "count": 35,
+  "updated_at": "2026.11.11 21:45:09 UTC",
+  "count": 32,
   "events": [
-    {
-      "timestamp": 1793210400,
-      "time_utc": "2026.10.28 18:00",
-      "currency": "USD",
-      "impact": "High",
-      "title": "Federal Funds Rate"
-    },
-    {
-      "timestamp": 1793210400,
-      "time_utc": "2026.10.28 18:00",
-      "currency": "USD",
-      "impact": "High",
-      "title": "FOMC Statement"
-    },
-    {
-      "timestamp": 1793212200,
-      "time_utc": "2026.10.28 18:30",
-      "currency": "USD",
-      "impact": "High",
-      "title": "FOMC Press Conference"
-    },
     {
       "timestamp": 1793277000,
       "time_utc": "2026.10.29 12:30",
