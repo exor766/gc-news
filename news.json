@@ -1,35 +1,7 @@
 {
-  "updated_at": "2026.11.13 06:12:31 UTC",
-  "count": 25,
+  "updated_at": "2026.11.13 14:47:33 UTC",
+  "count": 21,
   "events": [
-    {
-      "timestamp": 1793341740,
-      "time_utc": "2026.10.30 06:29",
-      "currency": "EUR",
-      "impact": "Medium",
-      "title": "German Prelim CPI m/m"
-    },
-    {
-      "timestamp": 1793345340,
-      "time_utc": "2026.10.30 07:29",
-      "currency": "EUR",
-      "impact": "Medium",
-      "title": "German Prelim CPI m/m"
-    },
-    {
-      "timestamp": 1793350800,
-      "time_utc": "2026.10.30 09:00",
-      "currency": "EUR",
-      "impact": "Medium",
-      "title": "German Prelim GDP q/q"
-    },
-    {
-      "timestamp": 1793363400,
-      "time_utc": "2026.10.30 12:30",
-      "currency": "USD",
-      "impact": "Medium",
-      "title": "Employment Cost Index q/q"
-    },
     {
       "timestamp": 1793631600,
       "time_utc": "2026.11.02 15:00",

@@ -5,8 +5,8 @@
 
 - **JSON Feed:** `https://raw.githubusercontent.com/exor766/gc-news/main/news.json`
 - **CSV Feed (Рекомендуется для MT4):** `https://raw.githubusercontent.com/exor766/gc-news/main/news.csv`
-- **Последнее обновление:** `2026.11.13 06:12:31 UTC`
-- **Активных событий в базе:** `25`
+- **Последнее обновление:** `2026.11.13 14:47:33 UTC`
+- **Активных событий в базе:** `21`
 
 ---
 
@@ -26,10 +26,6 @@
 
 | Время (UTC) | Валюта | Важность | Событие |
 |---|---|---|---|
-| `2026.10.30 06:29` | **EUR** | 🟠 Medium | German Prelim CPI m/m |
-| `2026.10.30 07:29` | **EUR** | 🟠 Medium | German Prelim CPI m/m |
-| `2026.10.30 09:00` | **EUR** | 🟠 Medium | German Prelim GDP q/q |
-| `2026.10.30 12:30` | **USD** | 🟠 Medium | Employment Cost Index q/q |
 | `2026.11.02 15:00` | **USD** | 🟠 Medium | ISM Manufacturing PMI |
 | `2026.11.03 15:00` | **USD** | 🟠 Medium | JOLTS Job Openings |
 | `2026.11.03 15:16` | **USD** | 🔴 High | Congressional Elections |
