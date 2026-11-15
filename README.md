@@ -5,8 +5,8 @@
 
 - **JSON Feed:** `https://raw.githubusercontent.com/exor766/gc-news/main/news.json`
 - **CSV Feed (Рекомендуется для MT4):** `https://raw.githubusercontent.com/exor766/gc-news/main/news.csv`
-- **Последнее обновление:** `2026.11.15 00:04:37 UTC`
-- **Активных событий в базе:** `21`
+- **Последнее обновление:** `2026.11.15 06:56:37 UTC`
+- **Активных событий в базе:** `34`
 
 ---
 
@@ -47,3 +47,16 @@
 | `2026.11.12 19:30` | **EUR** | 🟠 Medium | ECB President Lagarde Speaks |
 | `2026.11.13 13:30` | **USD** | 🔴 High | Core PPI m/m |
 | `2026.11.13 13:30` | **USD** | 🔴 High | PPI m/m |
+| `2026.11.16 17:00` | **USD** | 🔴 High | Fed Chairman Warsh Speaks |
+| `2026.11.17 13:30` | **USD** | 🔴 High | Core Retail Sales m/m |
+| `2026.11.17 13:30` | **USD** | 🔴 High | Retail Sales m/m |
+| `2026.11.18 09:00` | **EUR** | 🟠 Medium | ECB Financial Stability Review |
+| `2026.11.18 14:25` | **EUR** | 🟠 Medium | ECB President Lagarde Speaks |
+| `2026.11.18 19:00` | **USD** | 🔴 High | FOMC Meeting Minutes |
+| `2026.11.19 13:30` | **EUR** | 🟠 Medium | ECB President Lagarde Speaks |
+| `2026.11.19 13:30` | **USD** | 🟠 Medium | Philly Fed Manufacturing Index |
+| `2026.11.19 13:30` | **USD** | 🟠 Medium | Unemployment Claims |
+| `2026.11.20 08:15` | **EUR** | 🟠 Medium | ECB President Lagarde Speaks |
+| `2026.11.20 13:25` | **USD** | 🟠 Medium | FOMC Member Waller Speaks |
+| `2026.11.20 15:00` | **USD** | 🟠 Medium | Revised UoM Consumer Sentiment |
+| `2026.11.20 15:00` | **USD** | 🟠 Medium | Revised UoM Inflation Expectations |
