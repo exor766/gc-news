@@ -5,8 +5,8 @@
 
 - **JSON Feed:** `https://raw.githubusercontent.com/exor766/gc-news/main/news.json`
 - **CSV Feed (Рекомендуется для MT4):** `https://raw.githubusercontent.com/exor766/gc-news/main/news.csv`
-- **Последнее обновление:** `2026.11.17 08:54:17 UTC`
-- **Активных событий в базе:** `33`
+- **Последнее обновление:** `2026.11.17 18:09:33 UTC`
+- **Активных событий в базе:** `31`
 
 ---
 
@@ -26,8 +26,6 @@
 
 | Время (UTC) | Валюта | Важность | Событие |
 |---|---|---|---|
-| `2026.11.03 15:00` | **USD** | 🟠 Medium | JOLTS Job Openings |
-| `2026.11.03 15:16` | **USD** | 🔴 High | Congressional Elections |
 | `2026.11.04 10:00` | **EUR** | 🟠 Medium | Core CPI Flash Estimate y/y |
 | `2026.11.04 10:00` | **EUR** | 🟠 Medium | CPI Flash Estimate y/y |
 | `2026.11.04 15:00` | **USD** | 🟠 Medium | ISM Services PMI |

@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026.11.17 08:54:17 UTC",
-  "count": 33,
+  "updated_at": "2026.11.17 18:09:33 UTC",
+  "count": 31,
   "events": [
-    {
-      "timestamp": 1793718000,
-      "time_utc": "2026.11.03 15:00",
-      "currency": "USD",
-      "impact": "Medium",
-      "title": "JOLTS Job Openings"
-    },
-    {
-      "timestamp": 1793718960,
-      "time_utc": "2026.11.03 15:16",
-      "currency": "USD",
-      "impact": "High",
-      "title": "Congressional Elections"
-    },
     {
       "timestamp": 1793786400,
       "time_utc": "2026.11.04 10:00",
