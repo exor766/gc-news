@@ -5,7 +5,7 @@
 
 - **JSON Feed:** `https://raw.githubusercontent.com/exor766/gc-news/main/news.json`
 - **CSV Feed (Рекомендуется для MT4):** `https://raw.githubusercontent.com/exor766/gc-news/main/news.csv`
-- **Последнее обновление:** `2026.11.16 17:15:48 UTC`
+- **Последнее обновление:** `2026.11.17 00:56:42 UTC`
 - **Активных событий в базе:** `33`
 
 ---
