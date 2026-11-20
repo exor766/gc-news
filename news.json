@@ -1,42 +1,7 @@
 {
-  "updated_at": "2026.11.20 12:30:21 UTC",
-  "count": 26,
+  "updated_at": "2026.11.20 20:55:11 UTC",
+  "count": 22,
   "events": [
-    {
-      "timestamp": 1793971800,
-      "time_utc": "2026.11.06 13:30",
-      "currency": "USD",
-      "impact": "High",
-      "title": "Average Hourly Earnings m/m"
-    },
-    {
-      "timestamp": 1793971800,
-      "time_utc": "2026.11.06 13:30",
-      "currency": "USD",
-      "impact": "High",
-      "title": "Non-Farm Employment Change"
-    },
-    {
-      "timestamp": 1793971800,
-      "time_utc": "2026.11.06 13:30",
-      "currency": "USD",
-      "impact": "High",
-      "title": "Unemployment Rate"
-    },
-    {
-      "timestamp": 1793977200,
-      "time_utc": "2026.11.06 15:00",
-      "currency": "USD",
-      "impact": "Medium",
-      "title": "Prelim UoM Consumer Sentiment"
-    },
-    {
-      "timestamp": 1793977200,
-      "time_utc": "2026.11.06 15:00",
-      "currency": "USD",
-      "impact": "Medium",
-      "title": "Prelim UoM Inflation Expectations"
-    },
     {
       "timestamp": 1794301200,
       "time_utc": "2026.11.10 09:00",
@@ -183,6 +148,13 @@
       "currency": "USD",
       "impact": "Medium",
       "title": "Revised UoM Inflation Expectations"
+    },
+    {
+      "timestamp": 1795194000,
+      "time_utc": "2026.11.20 17:00",
+      "currency": "USD",
+      "impact": "Medium",
+      "title": "President Trump Speaks"
     }
   ]
 }

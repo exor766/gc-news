@@ -1,9 +1,4 @@
 # timestamp;time_utc;currency;impact;title
-1793971800;2026.11.06 13:30;USD;High;Average Hourly Earnings m/m
-1793971800;2026.11.06 13:30;USD;High;Non-Farm Employment Change
-1793971800;2026.11.06 13:30;USD;High;Unemployment Rate
-1793977200;2026.11.06 15:00;USD;Medium;Prelim UoM Consumer Sentiment
-1793977200;2026.11.06 15:00;USD;Medium;Prelim UoM Inflation Expectations
 1794301200;2026.11.10 09:00;USD;Medium;FOMC Member Waller Speaks
 1794317400;2026.11.10 13:30;USD;High;Core CPI m/m
 1794317400;2026.11.10 13:30;USD;High;CPI m/m
@@ -25,3 +20,4 @@
 1795181100;2026.11.20 13:25;USD;Medium;FOMC Member Waller Speaks
 1795186800;2026.11.20 15:00;USD;Medium;Revised UoM Consumer Sentiment
 1795186800;2026.11.20 15:00;USD;Medium;Revised UoM Inflation Expectations
+1795194000;2026.11.20 17:00;USD;Medium;President Trump Speaks
