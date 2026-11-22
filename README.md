@@ -5,8 +5,8 @@
 
 - **JSON Feed:** `https://raw.githubusercontent.com/exor766/gc-news/main/news.json`
 - **CSV Feed (Рекомендуется для MT4):** `https://raw.githubusercontent.com/exor766/gc-news/main/news.csv`
-- **Последнее обновление:** `2026.11.22 02:29:24 UTC`
-- **Активных событий в базе:** `22`
+- **Последнее обновление:** `2026.11.22 10:10:49 UTC`
+- **Активных событий в базе:** `33`
 
 ---
 
@@ -48,3 +48,14 @@
 | `2026.11.20 15:00` | **USD** | 🟠 Medium | Revised UoM Consumer Sentiment |
 | `2026.11.20 15:00` | **USD** | 🟠 Medium | Revised UoM Inflation Expectations |
 | `2026.11.20 17:00` | **USD** | 🟠 Medium | President Trump Speaks |
+| `2026.11.23 08:15` | **EUR** | 🟠 Medium | French Flash Manufacturing PMI |
+| `2026.11.23 08:15` | **EUR** | 🟠 Medium | French Flash Services PMI |
+| `2026.11.23 08:30` | **EUR** | 🟠 Medium | German Flash Manufacturing PMI |
+| `2026.11.23 08:30` | **EUR** | 🟠 Medium | German Flash Services PMI |
+| `2026.11.23 14:45` | **USD** | 🟠 Medium | Flash Manufacturing PMI |
+| `2026.11.23 14:45` | **USD** | 🟠 Medium | Flash Services PMI |
+| `2026.11.24 15:00` | **USD** | 🟠 Medium | CB Consumer Confidence |
+| `2026.11.25 13:30` | **USD** | 🔴 High | Core PCE Price Index m/m |
+| `2026.11.25 13:30` | **USD** | 🔴 High | Prelim GDP q/q |
+| `2026.11.25 13:30` | **USD** | 🟠 Medium | Prelim GDP Price Index q/q |
+| `2026.11.25 13:30` | **USD** | 🟠 Medium | Unemployment Claims |
