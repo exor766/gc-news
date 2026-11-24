@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026.11.24 12:00:42 UTC",
-  "count": 32,
+  "updated_at": "2026.11.24 22:39:52 UTC",
+  "count": 30,
   "events": [
-    {
-      "timestamp": 1794317400,
-      "time_utc": "2026.11.10 13:30",
-      "currency": "USD",
-      "impact": "High",
-      "title": "Core CPI m/m"
-    },
-    {
-      "timestamp": 1794317400,
-      "time_utc": "2026.11.10 13:30",
-      "currency": "USD",
-      "impact": "High",
-      "title": "CPI m/m"
-    },
     {
       "timestamp": 1794390300,
       "time_utc": "2026.11.11 09:45",
