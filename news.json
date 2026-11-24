@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026.11.24 01:46:51 UTC",
-  "count": 33,
+  "updated_at": "2026.11.24 12:00:42 UTC",
+  "count": 32,
   "events": [
-    {
-      "timestamp": 1794301200,
-      "time_utc": "2026.11.10 09:00",
-      "currency": "USD",
-      "impact": "Medium",
-      "title": "FOMC Member Waller Speaks"
-    },
     {
       "timestamp": 1794317400,
       "time_utc": "2026.11.10 13:30",
