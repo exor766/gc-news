@@ -5,8 +5,8 @@
 
 - **JSON Feed:** `https://raw.githubusercontent.com/exor766/gc-news/main/news.json`
 - **CSV Feed (Рекомендуется для MT4):** `https://raw.githubusercontent.com/exor766/gc-news/main/news.csv`
-- **Последнее обновление:** `2026.11.27 10:32:16 UTC`
-- **Активных событий в базе:** `27`
+- **Последнее обновление:** `2026.11.27 19:47:43 UTC`
+- **Активных событий в базе:** `25`
 
 ---
 
@@ -26,8 +26,6 @@
 
 | Время (UTC) | Валюта | Важность | Событие |
 |---|---|---|---|
-| `2026.11.13 13:30` | **USD** | 🔴 High | Core PPI m/m |
-| `2026.11.13 13:30` | **USD** | 🔴 High | PPI m/m |
 | `2026.11.16 17:00` | **USD** | 🔴 High | Fed Chairman Warsh Speaks |
 | `2026.11.17 13:30` | **USD** | 🔴 High | Core Retail Sales m/m |
 | `2026.11.17 13:30` | **USD** | 🔴 High | Retail Sales m/m |

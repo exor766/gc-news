@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026.11.27 10:32:16 UTC",
-  "count": 27,
+  "updated_at": "2026.11.27 19:47:43 UTC",
+  "count": 25,
   "events": [
-    {
-      "timestamp": 1794576600,
-      "time_utc": "2026.11.13 13:30",
-      "currency": "USD",
-      "impact": "High",
-      "title": "Core PPI m/m"
-    },
-    {
-      "timestamp": 1794576600,
-      "time_utc": "2026.11.13 13:30",
-      "currency": "USD",
-      "impact": "High",
-      "title": "PPI m/m"
-    },
     {
       "timestamp": 1794848400,
       "time_utc": "2026.11.16 17:00",
